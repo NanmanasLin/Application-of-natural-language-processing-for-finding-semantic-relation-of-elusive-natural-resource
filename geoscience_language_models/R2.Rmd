@@ -1,0 +1,220 @@
+------------------------------------------------------------------------
+
+title: "R Notebook" output: html_notebook ---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code.
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*.
+
+```{r}
+plot(cars)
+```
+
+Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Ctrl+Alt+I*.
+
+When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the *Preview* button or press *Ctrl+Shift+K* to preview the HTML file).
+
+The preview shows you a rendered HTML copy of the contents of the editor. Consequently, unlike *Knit*, *Preview* does not run any R code chunks. Instead, the output of the chunk when it was last run in the editor is displayed.
+
+```{r}
+library(tidytext)
+library(tidyverse)
+library(igraph)
+library(ggraph)
+```
+
+Getting the vectors from model
+```{r}
+myvecs      <- read_table("C:/Uni_Work_DLC/Research/Finished_model/dataset_A_full_11-27-2023-14-03-20/vectors.txt", skip = 0, col_names = FALSE)
+
+mydf        <- as.data.frame(myvecs)
+
+```
+
+Clear out some no-meaning words
+```{r}
+
+# Convert the first column to numeric (this will turn non-numeric values into NA)
+nums <- as.numeric(mydf$X1)
+
+# Remove rows where the first column is numeric
+mydf2 <- mydf[is.na(nums), ]
+
+# Remove rows where the first column is a singular character
+mydf3 <- mydf2[nchar(as.character(mydf2$X1)) > 1, ]
+```
+
+
+Get selected words
+```{r}
+#myvocab <- c("claystone", "clay", "sandstone", "sand", "silt", "siltstone", "gravel", "conglomerate")
+
+#sample_vocab <- mydf3[1:50,1]
+
+#mydf_filter <-  filter(mydf, mydf[,1] %in% sample_vocab)
+
+set.seed(225)  # Setting seed for reproducibility
+
+# Specify the number of rows you want to sample
+num_rows_to_sample <- 75
+
+# Use the sample function to randomly sample rows
+sampled_rows <- sample(nrow(mydf3), num_rows_to_sample, replace = FALSE)
+
+# Use the sampled rows to extract the corresponding rows from the matrix
+sampled_matrix <- mydf3[sampled_rows, ]
+
+mydf_filter <- sampled_matrix
+
+```
+
+---- Working t-SNE mapping ----
+```{r}
+# Load required libraries
+library(Rtsne)
+
+# Create a data frame with words and their corresponding vectors
+words <- mydf_filter$X1
+vectors <- as.matrix(mydf_filter[, -1])
+
+# Extract the numeric vectors
+embedding_matrix <- as.matrix(mydf_filter[, -1])
+
+# Set the random seed for reproducibility
+set.seed(100)
+
+# Perform t-SNE
+tsne_result <- Rtsne(embedding_matrix, check_duplicates = FALSE, perplexity = 0.8)
+
+
+```
+
+```{r}
+# Plot using ggplot2
+library(ggplot2)
+
+tsne_df <- data.frame(x = tsne_result$Y[, 1], y = tsne_result$Y[, 2], word = words)
+ggplot(tsne_df, aes(x, y, color = words)) +
+  geom_point() +
+  geom_text(aes(label = words), hjust = 1, vjust = 1, size = 3) +
+  ggtitle("t-SNE Visualization of GloVe Embeddings")
+```
+
+FR example
+```{r}
+g <- sample_pa(20, m = 2)
+minC <- rep(-Inf, vcount(g))
+maxC <- rep(Inf, vcount(g))
+minC[1] <- maxC[1] <- 0
+co <- layout_with_fr(g,
+  minx = minC, maxx = maxC,
+  miny = minC, maxy = maxC
+)
+co[1, ]
+plot(g,
+  layout = co, vertex.size = 30, edge.arrow.size = 0.2,
+  vertex.label = c("ego", rep("", vcount(g) - 1)), rescale = FALSE,
+  xlim = range(co[, 1]), ylim = range(co[, 2]), vertex.label.dist = 0,
+  vertex.label.color = "red"
+)
+axis(1)
+axis(2)
+```
+
+
+Test searching zone
+```{r}
+# Install igraph if not installed
+# install.packages("igraph")
+
+# Load the igraph library
+library(igraph)
+
+# Sample data (replace this with your word embedding matrix)
+words <- c('word1', 'word2', 'word3', 'word4')
+vectors <- matrix(runif(length(words) * 50), nrow = length(words), ncol = 50)  # Assuming 50-dimensional vectors
+
+# Use data from the model
+# Create a data frame with words and their corresponding vectors
+words <- mydf3$X1
+vectors <- as.matrix(mydf3[, -1])
+
+# Function to compute cosine similarity between vectors
+cosine_similarity <- function(vec1, vec2) {
+  sum(vec1 * vec2) / (sqrt(sum(vec1^2)) * sqrt(sum(vec2^2)))
+}
+
+# Choose a target word
+target_word <- "agarwood"
+```
+
+```{r}
+word_to_check <- "agarwood"
+
+if (word_to_check %in% mydf3$X1) {
+  print(paste(word_to_check, "exists in the data frame!"))
+} else {
+  print(paste(word_to_check, "does not exist in the data frame."))
+}
+
+```
+```{r}
+# Compute similarity scores
+similarities <- sapply(1:length(words), function(i) cosine_similarity(vectors[words == target_word, ], vectors[i, ]))
+
+# Set a similarity threshold (you can adjust this value)
+threshold <- 0.26
+
+# Create a graph based on the threshold
+edges <- data.frame(
+  from = rep(target_word, sum(similarities >= threshold)),
+  to = words[similarities >= threshold],
+  weight = similarities[similarities >= threshold]
+)
+
+# Correct the number of times argument
+edges$from <- as.character(edges$from)
+
+graph <- graph_from_data_frame(edges, directed = FALSE)
+
+# Scale down the edge weights
+edges$weight <- round(edges$weight, 3)
+
+```
+
+```{r}
+# Visualize the graph
+plot(
+  graph,
+  layout = layout_with_fr(graph),  # You can use other layout algorithms
+  vertex.label.cex = 0.7,
+  vertex.color = 'skyblue',
+  vertex.size = 10,
+  edge.color = 'gray'
+  #edge.label = edges$weight
+)
+
+```
+
+
+```{r}
+
+word_embeddings <- matrix(rnorm(100), ncol = 10)
+
+word_from_df <- mydf_filter$X1
+vectors_from_df <- as.matrix(mydf_filter[, -1])
+
+
+# Perform PCA
+pca_result <- prcomp(vectors_from_df, scale. = TRUE)
+
+# Plot the first two principal components
+plot(pca_result$x[, 1], pca_result$x[, 2], 
+     main = "PCA Plot of Word Embeddings",
+     xlab = "Principal Component 1", ylab = "Principal Component 2",
+     pch = 16, col = "blue")
+
+# Add labels for each point (you may want to replace 'rownames(word_embeddings)' with actual word labels)
+#text(pca_result$x[, 1], pca_result$x[, 2], labels = word_from_df, pos = 3, col = "red")
+
+```
