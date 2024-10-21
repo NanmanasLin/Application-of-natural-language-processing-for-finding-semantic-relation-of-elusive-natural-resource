@@ -1,0 +1,1874 @@
+city,lat,lng,country,admin_name,similarity
+manado,1.4931,124.8413,Indonesia,Sulawesi Utara,0.35536481678465326
+laramie,41.3099,-105.6085,United States,Wyoming,0.3119370109789681
+cincinnati,39.1413,-84.506,United States,Ohio,0.2912547711201072
+pasco,46.2506,-119.1305,United States,Washington,0.2815856539117939
+sherwood,45.3594,-122.8427,United States,Oregon,0.2734965993454319
+sherwood,34.8507,-92.2029,United States,Arkansas,0.2734965993454319
+wyoming,39.2297,-84.4816,United States,Ohio,0.2670586382755884
+wyoming,42.8908,-85.7066,United States,Michigan,0.2670586382755884
+alliance,40.9107,-81.1189,United States,Ohio,0.2666756434640699
+formosa,-26.1833,-58.1833,Argentina,Formosa,0.26578372007379525
+formosa,-15.5369,-47.3339,Brazil,Goiás,0.26578372007379525
+alba,44.7,8.0333,Italy,Piedmont,0.2604284610398423
+harrow,51.5836,-0.3464,United Kingdom,Harrow,0.2556423603818119
+magnolia,33.2775,-93.2261,United States,Arkansas,0.25341688103673077
+mentor,41.6893,-81.3362,United States,Ohio,0.25302822231115596
+appleton,44.278,-88.3892,United States,Wisconsin,0.25033877980813013
+appleton,53.3508,-2.5441,United Kingdom,Warrington,0.25033877980813013
+guelph,43.55,-80.25,Canada,Ontario,0.24924512228546913
+pittsburgh,40.4397,-79.9763,United States,Pennsylvania,0.24685888653065446
+wald,47.2753,8.9144,Switzerland,Zürich,0.24311875803435157
+aurora,44.0,-79.4667,Canada,Ontario,0.24240642870206952
+aurora,13.35,122.5167,Philippines,Quezon,0.24240642870206952
+aurora,41.3118,-81.345,United States,Ohio,0.24240642870206952
+aurora,7.9484,123.5819,Philippines,Zamboanga del Sur,0.24240642870206952
+aurora,39.7083,-104.7237,United States,Colorado,0.24240642870206952
+aurora,-6.9428,-38.9678,Brazil,Ceará,0.24240642870206952
+aurora,41.7638,-88.2902,United States,Illinois,0.24240642870206952
+aurora,42.7382,-78.6373,United States,New York,0.24240642870206952
+aurora,16.9918,121.6357,Philippines,Isabela,0.24240642870206952
+hampton,51.422,-0.367,United Kingdom,Richmond upon Thames,0.2421022711133176
+hampton,40.5844,-79.9534,United States,Pennsylvania,0.2421022711133176
+hampton,42.9391,-70.837,United States,New Hampshire,0.2421022711133176
+hampton,37.0551,-76.363,United States,Virginia,0.2421022711133176
+apt,43.8761,5.3964,France,Provence-Alpes-Côte d’Azur,0.2364892819785267
+jenks,35.9981,-95.9736,United States,Oklahoma,0.2342981218152741
+carthage,37.1503,-94.3225,United States,Missouri,0.2319343649846778
+carthage,36.8528,10.3233,Tunisia,Tunis,0.2319343649846778
+arar,30.9833,41.0167,Saudi Arabia,Al Ḩudūd ash Shamālīyah,0.23107930595064863
+buckeye,33.4314,-112.6429,United States,Arizona,0.22700837658512263
+bryan,30.665,-96.3807,United States,Texas,0.2252791601765568
+bryan,41.4706,-84.5483,United States,Ohio,0.2252791601765568
+alvin,29.3872,-95.2938,United States,Texas,0.22270286376818071
+lysander,43.1799,-76.3745,United States,New York,0.2221239625252449
+ivanhoe,-32.8983,144.3,Australia,New South Wales,0.22095799401306004
+forbes,-33.3817,148.0011,Australia,New South Wales,0.21912903574401077
+doorn,52.0333,5.35,Netherlands,Utrecht,0.2174839170084657
+miramar,25.9773,-80.3351,United States,Florida,0.21654403607609052
+miramar,22.3375,-97.8694,Mexico,Tamaulipas,0.21654403607609052
+miramar,-38.2667,-57.8333,Argentina,Buenos Aires,0.21654403607609052
+police,53.5333,14.5667,Poland,Zachodniopomorskie,0.2124888172894328
+tobe,33.7492,132.7922,Japan,Ehime,0.21121075876516282
+gland,46.42,6.27,Switzerland,Vaud,0.2071018979279584
+prado,-17.3408,-39.2208,Brazil,Bahia,0.20202396329610672
+bellevue,44.4592,-87.955,United States,Wisconsin,0.2012224779622871
+bellevue,47.5951,-122.1535,United States,Washington,0.2012224779622871
+bellevue,48.871,2.385,France,Île-de-France,0.2012224779622871
+bellevue,41.1485,-95.939,United States,Nebraska,0.2012224779622871
+kinross,-26.4167,29.0833,South Africa,Mpumalanga,0.20081270507555504
+bristol,40.1216,-74.8667,United States,Pennsylvania,0.20068576234839053
+bristol,36.6181,-82.1604,United States,Virginia,0.20068576234839053
+bristol,51.4536,-2.5975,United Kingdom,"Bristol, City of",0.20068576234839053
+bristol,41.6827,-71.2694,United States,Rhode Island,0.20068576234839053
+bristol,36.5572,-82.2154,United States,Tennessee,0.20068576234839053
+bristol,41.6812,-72.9407,United States,Connecticut,0.20068576234839053
+geneva,46.2017,6.1469,Switzerland,Genève,0.20057564476726408
+geneva,41.8833,-88.3242,United States,Illinois,0.20057564476726408
+geneva,42.8645,-76.9826,United States,New York,0.20057564476726408
+pushing,38.1833,69.4333,Tajikistan,Khatlon,0.20043506663908361
+estelle,29.8447,-90.1021,United States,Louisiana,0.19984632233560096
+mecca,21.4225,39.8233,Saudi Arabia,Makkah al Mukarramah,0.1984529785570328
+navarre,30.4174,-86.8907,United States,Florida,0.19735269507326647
+kikuchi,32.9833,130.8167,Japan,Kumamoto,0.1971972266007329
+marion,40.5497,-85.6604,United States,Indiana,0.19715838987337841
+marion,37.7345,-88.942,United States,Illinois,0.19715838987337841
+marion,35.2035,-90.2059,United States,Arkansas,0.19715838987337841
+marion,42.0451,-91.585,United States,Iowa,0.19715838987337841
+marion,40.5973,-83.1227,United States,Ohio,0.19715838987337841
+belmont,42.396,-71.1795,United States,Massachusetts,0.19714388577876474
+belmont,37.5154,-122.2953,United States,California,0.19714388577876474
+belmont,39.0622,-77.4985,United States,Virginia,0.19714388577876474
+belmont,35.2212,-81.0401,United States,North Carolina,0.19714388577876474
+hilo,19.6883,-155.0863,United States,Hawaii,0.19645977674572412
+hawthorne,40.9579,-74.1582,United States,New Jersey,0.1957884941590292
+hawthorne,33.9147,-118.3476,United States,California,0.1957884941590292
+eldorado,-23.7869,-54.2839,Brazil,Mato Grosso do Sul,0.19543823390909587
+eldorado,-24.52,-48.1081,Brazil,São Paulo,0.19543823390909587
+eldorado,-26.4,-54.6333,Argentina,Misiones,0.19543823390909587
+antofagasta,-23.65,-70.4,Chile,Antofagasta,0.1931736588063182
+brixton,51.4575,-0.1175,United Kingdom,Lambeth,0.19043160325122166
+sona,45.4333,10.8333,Italy,Veneto,0.1899337020373365
+yauco,18.0344,-66.8615,Puerto Rico,Puerto Rico,0.18967066039706748
+coronado,32.6649,-117.1604,United States,California,0.18848724413637197
+euclid,41.5903,-81.5188,United States,Ohio,0.188292058125751
+greenfield,42.9619,-88.0052,United States,Wisconsin,0.18821853037572733
+greenfield,39.7937,-85.7738,United States,Indiana,0.18821853037572733
+greenfield,36.3242,-121.2428,United States,California,0.18821853037572733
+ama,35.2004,136.7832,Japan,Aichi,0.18740036386092196
+albany,42.6664,-73.7987,United States,New York,0.1873305680002868
+albany,44.6272,-123.0965,United States,Oregon,0.1873305680002868
+albany,-35.0228,117.8814,Australia,Western Australia,0.1873305680002868
+albany,37.8897,-122.3018,United States,California,0.1873305680002868
+albany,31.5776,-84.1762,United States,Georgia,0.1873305680002868
+buckley,53.172,-3.086,United Kingdom,Flintshire,0.18717498911768438
+monterey,36.5919,-121.8808,United States,California,0.18668302214978383
+tota,6.8,1.7833,Benin,Couffo,0.1853627665073585
+utica,43.0962,-75.2261,United States,New York,0.18498187404713695
+havana,23.1367,-82.3589,Cuba,La Habana,0.18445162005936588
+essex,42.0833,-82.9,Canada,Ontario,0.18395175020306032
+essex,39.3021,-76.4449,United States,Maryland,0.18395175020306032
+essex,44.5196,-73.0656,United States,Vermont,0.18395175020306032
+brand,50.7489,6.165,Germany,North Rhine-Westphalia,0.18329053974505072
+santiago,19.4572,-70.6889,Dominican Republic,Cibao Norte,0.18313932622143347
+santiago,25.4333,-100.1333,Mexico,Nuevo León,0.18313932622143347
+santiago,-14.1892,-75.7126,Peru,Ica,0.18313932622143347
+santiago,9.2654,125.5602,Philippines,Agusan del Norte,0.18313932622143347
+santiago,9.8291,-84.3044,Costa Rica,San José,0.18313932622143347
+santiago,-33.4372,-70.6506,Chile,Región Metropolitana,0.18313932622143347
+santiago,8.1004,-80.9833,Panama,Veraguas,0.18313932622143347
+santiago,16.6833,121.55,Philippines,Santiago,0.18313932622143347
+santiago,17.2947,120.4453,Philippines,Ilocos Sur,0.18313932622143347
+santiago,-29.1919,-54.8669,Brazil,Rio Grande do Sul,0.18313932622143347
+elon,36.1016,-79.5086,United States,North Carolina,0.18302525330571617
+orinda,37.8808,-122.179,United States,California,0.18298897235891776
+fountain,38.6886,-104.6829,United States,Colorado,0.1827688844439097
+chatham,39.6733,-89.6934,United States,Illinois,0.18213398878374687
+chatham,40.7274,-74.4289,United States,New Jersey,0.18213398878374687
+chatham,42.4229,-82.1324,Canada,Ontario,0.18213398878374687
+chatham,51.37,0.52,United Kingdom,Medway,0.18213398878374687
+clemson,34.6837,-82.8124,United States,South Carolina,0.18148253922297397
+madison,40.7586,-74.4169,United States,New Jersey,0.18130934792430842
+madison,43.0822,-89.393,United States,Wisconsin,0.18130934792430842
+madison,41.3398,-72.6278,United States,Connecticut,0.18130934792430842
+madison,34.7114,-86.7626,United States,Alabama,0.18130934792430842
+madison,38.7581,-85.3973,United States,Indiana,0.18130934792430842
+madison,32.4738,-90.13,United States,Mississippi,0.18130934792430842
+matsushima,38.3802,141.0673,Japan,Miyagi,0.1809892561296942
+atchison,39.5625,-95.1367,United States,Kansas,0.18033553190093488
+panorama,-21.3564,-51.86,Brazil,São Paulo,0.17990418863283386
+winona,44.0505,-91.6684,United States,Minnesota,0.17939017375817579
+littleton,42.535,-71.4891,United States,Massachusetts,0.1785313378578368
+littleton,39.5915,-105.0188,United States,Colorado,0.1785313378578368
+isa,32.0572,130.6131,Japan,Kagoshima,0.17845552889467953
+lint,51.1167,4.4833,Belgium,Flanders,0.1777793170528803
+bonham,33.588,-96.1901,United States,Texas,0.17772497390917175
+bayonne,40.6668,-74.1158,United States,New Jersey,0.17638443785338842
+bayonne,43.49,-1.48,France,Nouvelle-Aquitaine,0.17638443785338842
+winslow,39.7027,-74.9029,United States,New Jersey,0.1752329725828624
+winslow,35.0243,-110.7095,United States,Arizona,0.1752329725828624
+hammond,30.5061,-90.4563,United States,Louisiana,0.17366712259401562
+hammond,41.6168,-87.4909,United States,Indiana,0.17366712259401562
+granada,6.147,-75.188,Colombia,Antioquia,0.17335022392234545
+granada,4.5186,-74.3514,Colombia,Cundinamarca,0.17335022392234545
+granada,37.1781,-3.6008,Spain,Andalusia,0.17335022392234545
+granada,11.9347,-85.9589,Nicaragua,Granada,0.17335022392234545
+lancing,50.832,-0.319,United Kingdom,West Sussex,0.17319277360337126
+stanton,33.8003,-117.9935,United States,California,0.17287996608095446
+marlow,51.57,-0.78,United Kingdom,Buckinghamshire,0.17280488725635212
+firestone,40.1565,-104.9494,United States,Colorado,0.17176449009794026
+derry,40.2709,-76.6561,United States,Pennsylvania,0.16977353096483316
+derry,42.8888,-71.2804,United States,New Hampshire,0.16977353096483316
+derry,54.9917,-7.3417,United Kingdom,Derry and Strabane,0.16977353096483316
+highbury,51.552,-0.097,United Kingdom,Islington,0.1692831674134958
+ino,33.5487,133.4278,Japan,Kōchi,0.16867238848844457
+taki,34.4961,136.5462,Japan,Mie,0.16844005389087413
+bingham,52.952,-0.953,United Kingdom,Nottinghamshire,0.16736974060450616
+lobo,13.65,121.25,Philippines,Batangas,0.16546438626185522
+iona,26.516,-81.9601,United States,Florida,0.16416684105711932
+hazleton,40.9505,-75.9725,United States,Pennsylvania,0.16291861212353798
+leon,10.7808,122.3894,Philippines,Iloilo,0.16234747192702415
+sudbury,42.3847,-71.4234,United States,Massachusetts,0.16117999370078362
+sudbury,51.5537,-0.3199,United Kingdom,Ealing,0.16117999370078362
+sudbury,46.49,-81.01,Canada,Ontario,0.16117999370078362
+sudbury,52.0417,0.7282,United Kingdom,Suffolk,0.16117999370078362
+norwich,52.6286,1.2928,United Kingdom,Norfolk,0.15844181639603372
+norwich,42.9833,-80.6,Canada,Ontario,0.15844181639603372
+norwich,41.5495,-72.0882,United States,Connecticut,0.15844181639603372
+dekalb,41.9314,-88.7481,United States,Illinois,0.15759394887004785
+oslo,59.9133,10.7389,Norway,Oslo,0.156944356139044
+moline,41.4821,-90.492,United States,Illinois,0.15684822583513003
+dryden,42.4786,-76.3564,United States,New York,0.1566973944274983
+austin,43.6721,-92.9784,United States,Minnesota,0.1552022399241667
+austin,30.3005,-97.7522,United States,Texas,0.1552022399241667
+lice,38.45,40.65,Turkey,Diyarbakır,0.15489836068610408
+freeport,10.45,-61.4167,Trinidad and Tobago,Couva/Tabaquite/Talparo,0.15477361683522417
+freeport,28.9453,-95.3601,United States,Texas,0.15477361683522417
+freeport,42.2891,-89.6346,United States,Illinois,0.15477361683522417
+freeport,43.8556,-70.1009,United States,Maine,0.15477361683522417
+freeport,40.6515,-73.585,United States,New York,0.15477361683522417
+shirley,51.3813,-0.0543,United Kingdom,Croydon,0.15398266954675355
+shirley,40.7936,-72.8748,United States,New York,0.15398266954675355
+beijing,39.904,116.4075,China,Beijing,0.15355216664503368
+toro,4.6117,-76.0814,Colombia,Valle del Cauca,0.15291522810068736
+toro,41.52,-5.3947,Spain,Castille-Leon,0.15291522810068736
+una,-15.2928,-39.075,Brazil,Bahia,0.1526639790289872
+una,20.82,71.03,India,Gujarāt,0.1526639790289872
+opera,45.3833,9.2167,Italy,Lombardy,0.1522295745209824
+beatrice,40.2736,-96.7455,United States,Nebraska,0.15209053496621938
+maynard,42.4264,-71.4561,United States,Massachusetts,0.15153826826456973
+erin,43.7667,-80.0667,Canada,Ontario,0.15066974484201567
+laredo,27.5625,-99.4874,United States,Texas,0.15054413672034683
+laredo,43.4144,-3.41,Spain,Cantabria,0.15054413672034683
+medford,42.4234,-71.1087,United States,Massachusetts,0.1499454844910546
+medford,40.822,-72.9859,United States,New York,0.1499454844910546
+medford,39.8639,-74.8231,United States,New Jersey,0.1499454844910546
+medford,42.3372,-122.854,United States,Oregon,0.1499454844910546
+celebration,28.3102,-81.551,United States,Florida,0.1498181259507867
+greece,43.246,-77.6988,United States,New York,0.1494847716904073
+crystal,45.0377,-93.3599,United States,Minnesota,0.1492134752502351
+takahashi,34.7914,133.6164,Japan,Okayama,0.14913404927780316
+radcliffe,53.5615,-2.3268,United Kingdom,Bury,0.14896024133781016
+cali,3.4206,-76.5222,Colombia,Valle del Cauca,0.14891280323798672
+mol,51.1833,5.1167,Belgium,Flanders,0.1486765078312311
+rogers,45.1865,-93.5783,United States,Minnesota,0.14857634962886035
+rogers,36.317,-94.1531,United States,Arkansas,0.14857634962886035
+richfield,43.2372,-88.2413,United States,Wisconsin,0.1476838852635307
+richfield,44.8763,-93.2829,United States,Minnesota,0.1476838852635307
+newport,51.5886,-2.9978,United Kingdom,Newport,0.14752718874426995
+newport,50.701,-1.2883,United Kingdom,Isle of Wight,0.14752718874426995
+newport,41.4801,-71.3203,United States,Rhode Island,0.14752718874426995
+newport,39.0856,-84.4868,United States,Kentucky,0.14752718874426995
+newport,52.7691,-2.3787,United Kingdom,Telford and Wrekin,0.14752718874426995
+newport,44.6242,-124.0513,United States,Oregon,0.14752718874426995
+proserpine,-20.4016,148.5808,Australia,Queensland,0.14720279895691057
+gay,51.4167,58.4833,Russia,Orenburgskaya Oblast’,0.14591014851329442
+dorado,18.4657,-66.2726,Puerto Rico,Puerto Rico,0.14510018702909255
+inza,53.85,46.35,Russia,Ul’yanovskaya Oblast’,0.14474819924533977
+brentwood,40.7839,-73.2522,United States,New York,0.14415146650466037
+brentwood,35.9918,-86.7758,United States,Tennessee,0.14415146650466037
+brentwood,40.3734,-79.9757,United States,Pennsylvania,0.14415146650466037
+brentwood,51.62,0.305,United Kingdom,Essex,0.14415146650466037
+brentwood,37.9356,-121.719,United States,California,0.14415146650466037
+tucson,32.1541,-110.8787,United States,Arizona,0.14361230707420347
+westmont,39.9082,-75.0551,United States,New Jersey,0.1432243212093265
+westmont,33.9417,-118.3018,United States,California,0.1432243212093265
+westmont,41.7948,-87.9742,United States,Illinois,0.1432243212093265
+seriate,45.6847,9.7178,Italy,Lombardy,0.14290190048540574
+kilmarnock,55.6111,-4.4957,United Kingdom,East Ayrshire,0.14065962414388422
+redding,40.5698,-122.365,United States,California,0.14002207162980485
+redding,41.305,-73.3915,United States,Connecticut,0.14002207162980485
+montoro,38.0167,-4.3833,Spain,Andalusia,0.13980044329734675
+altoona,41.6483,-93.4783,United States,Iowa,0.13941784029589877
+altoona,40.5082,-78.4007,United States,Pennsylvania,0.13941784029589877
+mcpherson,38.3714,-97.6605,United States,Kansas,0.13891596708805498
+cabot,34.9766,-92.0274,United States,Arkansas,0.13860435007581495
+asau,-13.5194,-172.6372,Samoa,Vaisigano,0.1382016637280945
+cairns,-16.92,145.78,Australia,Queensland,0.13800163105787477
+kalispell,48.2153,-114.3274,United States,Montana,0.13776318656035724
+laren,52.25,5.2333,Netherlands,Noord-Holland,0.1376978429863953
+corning,42.147,-77.0561,United States,New York,0.13669500655689282
+borne,52.3,6.75,Netherlands,Overijssel,0.13663723564995744
+borne,25.5431,86.6999,India,Bihār,0.13663723564995744
+minto,43.9167,-80.8667,Canada,Ontario,0.13639715661757068
+ramsey,41.0595,-74.1454,United States,New Jersey,0.13557083721366348
+ramsey,45.2617,-93.4494,United States,Minnesota,0.13557083721366348
+hobart,-42.8806,147.325,Australia,Tasmania,0.135380894132631
+hobart,41.514,-87.2729,United States,Indiana,0.135380894132631
+hobart,44.4967,-88.1602,United States,Wisconsin,0.135380894132631
+buy,58.4833,41.5333,Russia,Kostromskaya Oblast’,0.13533821282989678
+norco,33.9252,-117.5498,United States,California,0.1349605194300636
+avon,39.7601,-86.3916,United States,Indiana,0.13488745399691293
+avon,41.7907,-72.8538,United States,Connecticut,0.13488745399691293
+avon,48.4089,2.725,France,Île-de-France,0.13488745399691293
+avon,41.4485,-82.0187,United States,Ohio,0.13488745399691293
+seneca,34.6818,-82.96,United States,South Carolina,0.13438142621625127
+gent,51.0536,3.7253,Belgium,Flanders,0.13423527524438827
+beacon,41.5036,-73.9655,United States,New York,0.13418653931333124
+brewster,41.7463,-70.0676,United States,Massachusetts,0.1339168023305667
+lakewood,39.6977,-105.1172,United States,Colorado,0.133214410397825
+lakewood,33.8471,-118.1222,United States,California,0.133214410397825
+lakewood,41.4822,-81.8008,United States,Ohio,0.133214410397825
+lakewood,40.0763,-74.2031,United States,New Jersey,0.133214410397825
+lakewood,47.1628,-122.5299,United States,Washington,0.133214410397825
+greenacres,26.627,-80.1371,United States,Florida,0.13321057983070816
+donegal,54.654,-8.11,Ireland,Donegal,0.13315150175811508
+oral,51.2225,51.3725,Kazakhstan,,0.1325162425215345
+peto,20.1256,-88.9214,Mexico,Yucatán,0.1318045738072905
+hillcrest,35.379,-118.9578,United States,California,0.13102778817311422
+hillcrest,41.1298,-74.035,United States,New York,0.13102778817311422
+holden,42.3561,-71.8608,United States,Massachusetts,0.13046481135310295
+wayne,42.2774,-83.3877,United States,Michigan,0.13020465187409447
+wayne,40.9481,-74.2453,United States,New Jersey,0.13020465187409447
+corona,33.8616,-117.5649,United States,California,0.13016522244618522
+stains,48.95,2.3833,France,Île-de-France,0.12956761577997888
+fremont,41.4395,-96.4873,United States,Nebraska,0.12884193857363235
+fremont,41.3535,-83.1147,United States,Ohio,0.12884193857363235
+fremont,37.5265,-121.9843,United States,California,0.12884193857363235
+glasgow,39.6015,-75.7473,United States,Delaware,0.1283957386723401
+glasgow,55.8611,-4.25,United Kingdom,Glasgow City,0.1283957386723401
+glasgow,37.0048,-85.9263,United States,Kentucky,0.1283957386723401
+gil,30.8469,75.8636,India,Punjab,0.12812085253986494
+anthony,32.0131,-106.5984,United States,New Mexico,0.12770958781062358
+lye,52.459,-2.116,United Kingdom,Dudley,0.12740246177522008
+apac,1.985,32.535,Uganda,Apac,0.12735293891145116
+roanoke,37.2785,-79.9581,United States,Virginia,0.12710876150782124
+roanoke,33.0144,-97.2276,United States,Texas,0.12710876150782124
+farnham,51.215,-0.799,United Kingdom,Surrey,0.12684814220146412
+swansea,41.7571,-71.212,United States,Massachusetts,0.12651239485419064
+swansea,38.5507,-89.9858,United States,Illinois,0.12651239485419064
+gonzalez,30.5822,-87.2906,United States,Florida,0.12443138226884032
+irvine,55.6201,-4.6614,United Kingdom,North Ayrshire,0.1243013126166892
+irvine,33.6772,-117.7738,United States,California,0.1243013126166892
+blyth,55.126,-1.514,United Kingdom,Northumberland,0.12364631072558585
+eastmont,47.8968,-122.1818,United States,Washington,0.1232617900844194
+commerce,33.9963,-118.1519,United States,California,0.1230251293707435
+commerce,33.2421,-95.8992,United States,Texas,0.1230251293707435
+hem,50.6553,3.1878,France,Hauts-de-France,0.12205063096161695
+jasper,38.3933,-86.9402,United States,Indiana,0.12106410720218086
+jasper,33.8508,-87.271,United States,Alabama,0.12106410720218086
+warwick,40.1558,-76.2799,United States,Pennsylvania,0.1206892737627957
+warwick,41.7062,-71.4334,United States,Rhode Island,0.1206892737627957
+warwick,-28.2152,152.0352,Australia,Queensland,0.1206892737627957
+warwick,52.28,-1.59,United Kingdom,Warwickshire,0.1206892737627957
+warwick,40.2503,-75.0818,United States,Pennsylvania,0.1206892737627957
+warwick,41.2597,-74.3614,United States,New York,0.1206892737627957
+sofia,42.7,23.33,Bulgaria,Sofia-Grad,0.12050645494910595
+westmount,45.4833,-73.6,Canada,Quebec,0.12003502426538537
+homestead,25.4665,-80.4472,United States,Florida,0.11991004991910359
+mansfield,42.0163,-71.2187,United States,Massachusetts,0.1196721052523313
+mansfield,40.7656,-82.5275,United States,Ohio,0.1196721052523313
+mansfield,40.0853,-74.7149,United States,New Jersey,0.1196721052523313
+mansfield,32.569,-97.1213,United States,Texas,0.1196721052523313
+mansfield,41.7892,-72.2287,United States,Connecticut,0.1196721052523313
+mansfield,53.1444,-1.1964,United Kingdom,Nottinghamshire,0.1196721052523313
+sanford,35.4875,-79.177,United States,North Carolina,0.11939960635678104
+sanford,28.7891,-81.2757,United States,Florida,0.11939960635678104
+sanford,43.4244,-70.7573,United States,Maine,0.11939960635678104
+winfield,41.8787,-88.1507,United States,Illinois,0.1192803705386345
+winfield,37.274,-96.95,United States,Kansas,0.1192803705386345
+meridian,43.6116,-116.3977,United States,Idaho,0.11788227869419465
+meridian,32.3846,-88.6896,United States,Mississippi,0.11788227869419465
+lian,14.0333,120.65,Philippines,Batangas,0.11691133878680349
+astoria,46.1856,-123.8053,United States,Oregon,0.11668774952178018
+vera,-29.4667,-60.2167,Argentina,Santa Fe,0.11592699007186691
+vera,37.25,-1.8667,Spain,Andalusia,0.11592699007186691
+fresno,29.5357,-95.4696,United States,Texas,0.11467490273855518
+fresno,36.783,-119.7939,United States,California,0.11467490273855518
+fresno,5.1556,-75.0403,Colombia,Tolima,0.11467490273855518
+hillsborough,37.5572,-122.3586,United States,California,0.1144960818951416
+hillsborough,40.4985,-74.674,United States,New Jersey,0.1144960818951416
+hillsborough,36.0679,-79.0991,United States,North Carolina,0.1144960818951416
+hillsborough,40.5069,-74.6523,United States,New Jersey,0.1144960818951416
+tyre,33.2708,35.1961,Lebanon,Liban-Sud,0.11443378094583012
+stockholm,59.3294,18.0686,Sweden,Stockholm,0.1121853506626801
+brandon,52.4474,0.6242,United Kingdom,Suffolk,0.11213907270308288
+brandon,43.5928,-96.5799,United States,South Dakota,0.11213907270308288
+brandon,32.2778,-89.9896,United States,Mississippi,0.11213907270308288
+brandon,49.8483,-99.95,Canada,Manitoba,0.11213907270308288
+brandon,27.9367,-82.3,United States,Florida,0.11213907270308288
+mississauga,43.6,-79.65,Canada,Ontario,0.11045834387535303
+valle,-2.95,-78.9833,Ecuador,Azuay,0.11030829431559985
+delaware,40.2851,-83.0741,United States,Ohio,0.11002383900201829
+norilsk,69.3333,88.2167,Russia,Krasnoyarskiy Kray,0.10997680506336116
+longreach,-23.4422,144.2491,Australia,Queensland,0.10931869814165762
+burton,42.9974,-83.6175,United States,Michigan,0.10882816744446677
+moss,59.4592,10.7008,Norway,Viken,0.10833258483920116
+chandler,33.2825,-111.8514,United States,Arizona,0.10829609421677355
+milford,42.8178,-71.6736,United States,New Hampshire,0.10741945536457198
+milford,40.4291,-75.4153,United States,Pennsylvania,0.10741945536457198
+milford,42.1565,-71.5188,United States,Massachusetts,0.10741945536457198
+milford,38.9091,-75.4227,United States,Delaware,0.10741945536457198
+upland,34.1178,-117.6604,United States,California,0.10711983949377257
+ewing,40.265,-74.8006,United States,New Jersey,0.10706296018597328
+pullman,46.7336,-117.168,United States,Washington,0.10695969057127908
+dayton,39.2592,-119.5653,United States,Nevada,0.10643352342678691
+dayton,39.7805,-84.2003,United States,Ohio,0.10643352342678691
+dayton,30.0315,-94.9158,United States,Texas,0.10643352342678691
+chili,43.0845,-77.7541,United States,New York,0.10619304802536789
+naas,53.2158,-6.6669,Ireland,Kildare,0.10617169841535423
+aston,39.8719,-75.4349,United States,Pennsylvania,0.10583711190837475
+greenwich,41.0665,-73.6368,United States,Connecticut,0.10537651475239018
+tak,16.8711,99.125,Thailand,Tak,0.10484246494044558
+tilbury,51.4606,0.3582,United Kingdom,Thurrock,0.10476807801806054
+maur,47.3417,8.6703,Switzerland,Zürich,0.10473716973711322
+maur,30.0833,75.25,India,Punjab,0.10473716973711322
+converse,29.5091,-98.3084,United States,Texas,0.10379687171814289
+hartford,43.6644,-72.3865,United States,Vermont,0.10358496465372391
+hartford,43.3223,-88.3784,United States,Wisconsin,0.10358496465372391
+hartford,41.7661,-72.6834,United States,Connecticut,0.10358496465372391
+napier,-39.4903,176.9178,New Zealand,Hawke’s Bay,0.10339457183899903
+hatton,6.8897,80.5981,Sri Lanka,Central,0.10335889789323116
+laval,48.0733,-0.7689,France,Pays de la Loire,0.10298626728453208
+laval,45.5833,-73.75,Canada,Quebec,0.10298626728453208
+prichard,30.7735,-88.1301,United States,Alabama,0.10296815329518028
+dora,22.1221,88.6143,India,West Bengal,0.10272235941268959
+jackson,32.3157,-90.2125,United States,Mississippi,0.10221333912719599
+jackson,42.2431,-84.4038,United States,Michigan,0.10221333912719599
+jackson,37.3792,-89.6522,United States,Missouri,0.10221333912719599
+jackson,35.6538,-88.8354,United States,Tennessee,0.10221333912719599
+jackson,40.098,-74.3578,United States,New Jersey,0.10221333912719599
+jackson,39.9057,-76.8796,United States,Pennsylvania,0.10221333912719599
+jackson,43.472,-110.7746,United States,Wyoming,0.10221333912719599
+jackson,40.3774,-76.3142,United States,Pennsylvania,0.10221333912719599
+livingstone,-17.85,25.8667,Zambia,Southern,0.10213323776522265
+wilmot,43.4,-80.65,Canada,Ontario,0.10171023065320861
+arnold,38.4297,-90.3733,United States,Missouri,0.10166565710906916
+arnold,39.0437,-76.4974,United States,Maryland,0.10166565710906916
+arnold,53.005,-1.127,United Kingdom,Nottinghamshire,0.10166565710906916
+macarthur,10.8356,124.9964,Philippines,Leyte,0.1014373677517535
+evergreen,39.6349,-105.3356,United States,Colorado,0.10131986437168661
+thornton,53.7898,-1.8504,United Kingdom,Bradford,0.10112853381747555
+thornton,39.9197,-104.9438,United States,Colorado,0.10112853381747555
+andrews,32.3207,-102.552,United States,Texas,0.10077788846541824
+fontaine,45.1939,5.6856,France,Auvergne-Rhône-Alpes,0.10067445673715825
+caldwell,43.6453,-116.6594,United States,Idaho,0.10061679748616648
+caldwell,40.8389,-74.2776,United States,New Jersey,0.10061679748616648
+brake,53.3333,8.4833,Germany,Lower Saxony,0.10031376729295882
+ottawa,45.4247,-75.695,Canada,Ontario,0.0995704287460818
+ottawa,38.5996,-95.2636,United States,Kansas,0.0995704287460818
+ottawa,41.3555,-88.8261,United States,Illinois,0.0995704287460818
+edgewater,38.9373,-76.5572,United States,Maryland,0.09902351351143746
+edgewater,28.9594,-80.9406,United States,Florida,0.09902351351143746
+edgewater,40.8237,-73.974,United States,New Jersey,0.09902351351143746
+edison,40.536,-74.3697,United States,New Jersey,0.09868641233616293
+ig,45.9692,14.5394,Slovenia,Ig,0.09866520879822505
+scranton,41.4044,-75.6649,United States,Pennsylvania,0.09862510275880232
+loos,50.6128,3.0144,France,Hauts-de-France,0.09856735666001992
+federal,-30.95,-58.8,Argentina,Entre Ríos,0.0981959243917987
+veys,31.4825,48.8747,Iran,Khūzestān,0.09800612242460893
+greene,39.9543,-77.5668,United States,Pennsylvania,0.09795053465806436
+ilo,-17.6459,-71.3453,Peru,Moquegua,0.09778830639021241
+oakville,38.4479,-90.3199,United States,Missouri,0.09761835107476424
+oakville,43.45,-79.6833,Canada,Ontario,0.09761835107476424
+oakville,41.5893,-73.0905,United States,Connecticut,0.09761835107476424
+altenburg,50.985,12.4333,Germany,Thuringia,0.0969025389064958
+shar,49.5858,81.0478,Kazakhstan,,0.09680213316171515
+romulus,42.2237,-83.366,United States,Michigan,0.09595352239934574
+barrie,44.3711,-79.6769,Canada,Ontario,0.09572463740902781
+justice,41.7495,-87.8345,United States,Illinois,0.09539356323543058
+minster,51.421,0.809,United Kingdom,Kent,0.0951470774584795
+avondale,33.3873,-112.3235,United States,Arizona,0.09501839117524635
+moraga,37.8439,-122.1225,United States,California,0.09464947930087197
+college,40.8144,-77.8172,United States,Pennsylvania,0.09463870464975987
+college,64.8694,-147.8216,United States,Alaska,0.09463870464975987
+grinnell,41.7359,-92.7244,United States,Iowa,0.09345830975743596
+snyder,32.7133,-100.9116,United States,Texas,0.09317089069969453
+schlieren,47.4,8.45,Switzerland,Zürich,0.0928355739627933
+cruz,-2.9178,-40.1719,Brazil,Ceará,0.0926318440888928
+ifs,49.1383,-0.3531,France,Normandie,0.09242404755433764
+pitman,39.7335,-75.1306,United States,New Jersey,0.09239325778117458
+loughborough,52.77,-1.2,United Kingdom,Leicestershire,0.09219273776505488
+acton,51.5135,-0.2707,United Kingdom,Ealing,0.09202405107056855
+acton,42.4843,-71.4378,United States,Massachusetts,0.09202405107056855
+arbutus,39.2428,-76.6922,United States,Maryland,0.09199217373966817
+porto,-3.8928,-42.71,Brazil,Piauí,0.09157834095484141
+porto,41.1621,-8.622,Portugal,Porto,0.09157834095484141
+pontiac,40.8894,-88.6409,United States,Illinois,0.0913631744652168
+pontiac,42.6493,-83.2878,United States,Michigan,0.0913631744652168
+bol,13.46,14.74,Chad,Lac,0.0898101427371043
+paramount,33.8977,-118.1651,United States,California,0.08964851151053
+tokyo,35.6897,139.6922,Japan,Tōkyō,0.0895275354781131
+dickinson,29.4548,-95.0589,United States,Texas,0.08951254272457343
+dickinson,46.8918,-102.7925,United States,North Dakota,0.08951254272457343
+neptune,40.2105,-74.0539,United States,New Jersey,0.08935726951284295
+bra,44.7,7.85,Italy,Piedmont,0.0886376432148206
+areal,-22.2308,-43.1058,Brazil,Rio de Janeiro,0.08856589836824336
+santos,-23.9369,-46.325,Brazil,São Paulo,0.08850136653905072
+davenport,41.5565,-90.6053,United States,Iowa,0.08807087881856213
+davenport,28.1587,-81.6083,United States,Florida,0.08807087881856213
+nola,40.9333,14.5333,Italy,Campania,0.08727813412738594
+nola,3.5333,16.0667,Central African Republic,Sangha-Mbaéré,0.08727813412738594
+santana,0.2583,6.7417,Sao Tome and Principe,Cantagalo,0.08726372884461975
+santana,-0.035,-51.175,Brazil,Amapá,0.08726372884461975
+santana,-12.9828,-44.0508,Brazil,Bahia,0.08726372884461975
+ajax,43.8583,-79.0364,Canada,Ontario,0.08724955582229321
+dalton,34.769,-84.972,United States,Georgia,0.08673871249534049
+luxor,25.6833,32.65,Egypt,Al Uqşur,0.08648540717634001
+sim,54.9833,57.7,Russia,Chelyabinskaya Oblast’,0.08629082033877533
+dumas,35.8613,-101.9642,United States,Texas,0.0861568787805177
+tank,32.13,70.23,Pakistan,Khyber Pakhtunkhwa,0.08575685998126292
+trinity,28.1809,-82.6582,United States,Florida,0.08560544928755842
+paco,14.583,120.983,Philippines,Manila,0.08532051761453563
+plum,40.5024,-79.7495,United States,Pennsylvania,0.08521178640200744
+banbury,52.061,-1.336,United Kingdom,Oxfordshire,0.08485599534441401
+bromley,51.407,0.021,United Kingdom,Bromley,0.0848097601629807
+grenoble,45.1715,5.7224,France,Auvergne-Rhône-Alpes,0.08426979061237683
+clifton,52.904,-1.177,United Kingdom,Nottingham,0.08423535082863753
+clifton,39.0764,-108.4605,United States,Colorado,0.08423535082863753
+clifton,53.9721,-1.0979,United Kingdom,York,0.08423535082863753
+clifton,40.863,-74.1575,United States,New Jersey,0.08423535082863753
+fitzgerald,31.7134,-83.2514,United States,Georgia,0.08345016222379509
+ala,45.75,11.0,Italy,Trentino-Alto Adige,0.08307496394656311
+regina,50.4547,-104.6067,Canada,Saskatchewan,0.08296203580242056
+primrose,-26.1833,28.1667,South Africa,Gauteng,0.08271650520865781
+allendale,42.9845,-85.9499,United States,Michigan,0.08248732204843479
+bari,41.1253,16.8667,Italy,Puglia,0.08243049968815042
+fortuna,10.4483,-84.6421,Costa Rica,Alajuela,0.0821787911204408
+fortuna,-5.7328,-44.1578,Brazil,Maranhão,0.0821787911204408
+fortuna,38.1789,-1.1233,Spain,Murcia,0.0821787911204408
+fortuna,40.5862,-124.1419,United States,California,0.0821787911204408
+oxford,34.3627,-89.5336,United States,Mississippi,0.08203276052791009
+oxford,51.7519,-1.2578,United Kingdom,Oxfordshire,0.08203276052791009
+oxford,39.5061,-84.7446,United States,Ohio,0.08203276052791009
+oxford,33.5967,-85.8687,United States,Alabama,0.08203276052791009
+oxford,42.1286,-71.8665,United States,Massachusetts,0.08203276052791009
+oxford,36.3155,-78.5848,United States,North Carolina,0.08203276052791009
+oxford,41.4313,-73.135,United States,Connecticut,0.08203276052791009
+saline,42.174,-83.778,United States,Michigan,0.08187893303236682
+beverley,53.845,-0.427,United Kingdom,East Riding of Yorkshire,0.08163568061303184
+voi,-3.3906,38.5769,Kenya,Taita/Taveta,0.08137749854004839
+heber,40.507,-111.3986,United States,Utah,0.08124783104739541
+jacinto,-16.1439,-40.2928,Brazil,Minas Gerais,0.08030925365889441
+tanga,-5.0667,39.1,Tanzania,Tanga,0.0803082698376244
+prosper,33.2394,-96.8087,United States,Texas,0.0801943658620049
+carmichael,38.6318,-121.3263,United States,California,0.07996450696758073
+jupiter,26.92,-80.1128,United States,Florida,0.0798641589692155
+como,45.8103,9.0861,Italy,Lombardy,0.07959259118119633
+gloucester,42.626,-70.6897,United States,Massachusetts,0.07934729518990846
+gloucester,39.7924,-75.0363,United States,New Jersey,0.07934729518990846
+gloucester,51.8644,-2.2444,United Kingdom,Gloucestershire,0.07934729518990846
+hooper,41.1599,-112.2871,United States,Utah,0.07904277012391536
+selkirk,50.1436,-96.8839,Canada,Manitoba,0.07898423311466907
+lancaster,34.6935,-118.1753,United States,California,0.07886076402969411
+lancaster,42.9099,-78.6378,United States,New York,0.07886076402969411
+lancaster,32.5922,-96.7739,United States,Texas,0.07886076402969411
+lancaster,39.7248,-82.6049,United States,Ohio,0.07886076402969411
+lancaster,40.042,-76.3012,United States,Pennsylvania,0.07886076402969411
+lancaster,54.0489,-2.8014,United Kingdom,Lancashire,0.07886076402969411
+melville,40.7824,-73.4088,United States,New York,0.07808941303445183
+wa,10.0667,-2.5,Ghana,Upper West,0.07782710285849626
+clarence,43.0196,-78.6375,United States,New York,0.07775402049743052
+bethlehem,42.5856,-73.8219,United States,New York,0.07744560957246704
+bethlehem,-28.224,28.311,South Africa,Free State,0.07744560957246704
+bethlehem,31.7031,35.1956,West Bank,,0.07744560957246704
+bethlehem,40.6266,-75.3679,United States,Pennsylvania,0.07744560957246704
+daphne,30.6263,-87.8816,United States,Alabama,0.07687359426154539
+newton,42.3316,-71.2085,United States,Massachusetts,0.07684047609143474
+newton,41.6963,-93.0403,United States,Iowa,0.07684047609143474
+newton,8.3333,-13.0667,Sierra Leone,Western Area,0.07684047609143474
+newton,35.663,-81.2335,United States,North Carolina,0.07684047609143474
+newton,38.0368,-97.3449,United States,Kansas,0.07684047609143474
+yellowknife,62.4709,-114.4053,Canada,Northwest Territories,0.07613369384551216
+ballarat,-37.5608,143.8475,Australia,Victoria,0.07604417360821669
+eastwood,53.018,-1.304,United Kingdom,Nottinghamshire,0.07570267719430612
+bind,25.3035,85.6869,India,Bihār,0.07545540512929438
+marino,41.7667,12.6667,Italy,Lazio,0.07489748208331337
+corinth,34.9474,-88.5143,United States,Mississippi,0.07439466305369413
+corinth,33.1434,-97.0682,United States,Texas,0.07439466305369413
+bolivar,37.6059,-93.4175,United States,Missouri,0.07412776873554416
+hutchinson,38.0671,-97.9081,United States,Kansas,0.0738535701891816
+hutchinson,44.8855,-94.3768,United States,Minnesota,0.0738535701891816
+morley,53.7492,-1.6023,United Kingdom,Leeds,0.07365870101053118
+crestview,30.7477,-86.5785,United States,Florida,0.07349172509370294
+imperial,32.839,-115.572,United States,California,0.0730419459814653
+andes,5.5833,-75.9167,Colombia,Antioquia,0.07250783647207293
+lisle,41.7918,-88.0888,United States,Illinois,0.07248762618170079
+vista,33.1896,-117.2386,United States,California,0.07178384698398588
+thoen,17.61,99.2234,Thailand,Lampang,0.0717008602201441
+halifax,44.6475,-63.5906,Canada,Nova Scotia,0.07159332736411883
+halifax,53.725,-1.863,United Kingdom,Calderdale,0.07159332736411883
+goldenrod,28.6114,-81.2916,United States,Florida,0.07152481849048065
+rho,45.5333,9.0333,Italy,Lombardy,0.07123334754983113
+butte,45.902,-112.6571,United States,Montana,0.07117573009015588
+highlands,41.3601,-74.0084,United States,New York,0.07116329011769829
+damascus,45.4233,-122.4436,United States,Oregon,0.07112497398547346
+damascus,33.5131,36.2919,Syria,Dimashq,0.07112497398547346
+damascus,39.2701,-77.1957,United States,Maryland,0.07112497398547346
+paterson,40.9147,-74.1624,United States,New Jersey,0.07051827838878344
+palmer,42.1888,-72.3112,United States,Massachusetts,0.07042644576461843
+palmer,40.7007,-75.2628,United States,Pennsylvania,0.07042644576461843
+ena,35.4492,137.4128,Japan,Gifu,0.07027530044028263
+tours,47.3936,0.6892,France,Centre-Val de Loire,0.06983339850976211
+flora,18.2147,121.4186,Philippines,Apayao,0.06978436743271577
+clive,41.6147,-93.798,United States,Iowa,0.06929032152184922
+pinto,40.25,-3.7,Spain,Madrid,0.06906605648817332
+pinto,-36.7,-71.9,Chile,Ñuble,0.06906605648817332
+usa,33.532,131.3495,Japan,Ōita,0.06816640766000093
+estevan,49.1392,-102.9861,Canada,Saskatchewan,0.0679981077096874
+salt,41.9761,2.7881,Spain,Catalonia,0.06790307846065124
+ames,42.0256,-93.6217,United States,Iowa,0.06756647624136669
+tiffin,41.1165,-83.1805,United States,Ohio,0.06730700411044255
+comox,49.6733,-124.9022,Canada,British Columbia,0.06713296304124272
+rotherham,53.43,-1.357,United Kingdom,Rotherham,0.06712735859869201
+ica,-14.0667,-75.7333,Peru,Ica,0.06689395600833437
+tonk,26.1505,75.79,India,Rājasthān,0.0664375066723707
+lumberton,39.9569,-74.8036,United States,New Jersey,0.06636382325120993
+lumberton,30.2562,-94.207,United States,Texas,0.06636382325120993
+lumberton,34.6312,-79.0186,United States,North Carolina,0.06636382325120993
+huizen,52.3,5.25,Netherlands,Noord-Holland,0.06612616794943427
+vite,17.2711,74.5378,India,Mahārāshtra,0.06565277069061959
+independence,44.8547,-123.1952,United States,Oregon,0.06519393887835001
+independence,37.2119,-95.7327,United States,Kansas,0.06519393887835001
+independence,38.951,-84.5492,United States,Kentucky,0.06519393887835001
+independence,39.0871,-94.3501,United States,Missouri,0.06519393887835001
+eral,8.6258,78.0228,India,Tamil Nādu,0.06515007356790004
+helena,46.5965,-112.0202,United States,Montana,0.06514945935041894
+helena,33.2837,-86.8791,United States,Alabama,0.06514945935041894
+monument,39.0736,-104.8467,United States,Colorado,0.06494606949831572
+martin,49.065,18.9219,Slovakia,Žilina,0.06488452436022418
+martin,36.3385,-88.8513,United States,Tennessee,0.06488452436022418
+cochrane,51.189,-114.467,Canada,Alberta,0.06469436371200121
+cochrane,-47.2547,-72.575,Chile,Aysén,0.06469436371200121
+rivera,-30.9025,-55.5506,Uruguay,Rivera,0.064660844820281
+rivera,2.7853,-75.2589,Colombia,Huila,0.064660844820281
+gateway,26.5793,-81.7446,United States,Florida,0.06441839742445199
+progress,40.2901,-76.8394,United States,Pennsylvania,0.06441255591979433
+progress,49.7504,129.6167,Russia,Amurskaya Oblast’,0.06441255591979433
+asse,50.9,4.2,Belgium,Flanders,0.06428326143849061
+pace,30.6188,-87.1667,United States,Florida,0.06404226479589636
+anda,9.744,124.576,Philippines,Bohol,0.0637383329682798
+anda,16.2896,119.9491,Philippines,Pangasinan,0.0637383329682798
+anda,46.4078,125.3252,China,Heilongjiang,0.0637383329682798
+tamarac,26.2056,-80.2539,United States,Florida,0.06336781590136131
+burnaby,49.2667,-122.9667,Canada,British Columbia,0.0632562817464869
+aarhus,56.1572,10.2107,Denmark,Midtjylland,0.06314971252183754
+lloyd,41.7286,-73.9961,United States,New York,0.06299044921358798
+bessemer,33.3712,-86.9728,United States,Alabama,0.06268143690727557
+moody,33.5986,-86.4963,United States,Alabama,0.062260250763367386
+an,19.7833,94.0333,Myanmar,Rakhine State,0.06219107442894389
+melrose,42.4556,-71.059,United States,Massachusetts,0.062097322106342445
+barnsley,53.5547,-1.4791,United Kingdom,Barnsley,0.06204341830042148
+summerland,49.6006,-119.6778,Canada,British Columbia,0.061690102314419404
+badger,64.8006,-147.3877,United States,Alaska,0.06089201290097823
+cologne,50.9364,6.9528,Germany,North Rhine-Westphalia,0.06031191977133166
+australia,22.4995,-81.1359,Cuba,Matanzas,0.059499607651081754
+kotia,26.275,86.0532,India,Bihār,0.059357231343527106
+boston,7.8697,126.3761,Philippines,Davao Oriental,0.05930014873980116
+boston,42.3188,-71.0852,United States,Massachusetts,0.05930014873980116
+boston,52.974,-0.0214,United Kingdom,Lincolnshire,0.05930014873980116
+fairview,35.9815,-87.1291,United States,Tennessee,0.058716918447417776
+fairview,37.6758,-122.0473,United States,California,0.058716918447417776
+fairview,42.0261,-80.2361,United States,Pennsylvania,0.058716918447417776
+fairview,33.1399,-96.6117,United States,Texas,0.058716918447417776
+fairview,40.8182,-74.0022,United States,New Jersey,0.058716918447417776
+fairview,40.1735,-76.8655,United States,Pennsylvania,0.058716918447417776
+fairview,45.5469,-122.439,United States,Oregon,0.058716918447417776
+arlington,42.4187,-71.1639,United States,Massachusetts,0.057871859641957624
+arlington,48.1701,-122.1442,United States,Washington,0.057871859641957624
+arlington,32.6998,-97.125,United States,Texas,0.057871859641957624
+arlington,38.8786,-77.1011,United States,Virginia,0.057871859641957624
+arlington,35.2594,-89.668,United States,Tennessee,0.057871859641957624
+springfield,39.9281,-75.3362,United States,Pennsylvania,0.05785884331926616
+springfield,43.2907,-72.4809,United States,Vermont,0.05785884331926616
+springfield,39.93,-83.7959,United States,Ohio,0.05785884331926616
+springfield,44.0538,-122.9811,United States,Oregon,0.05785884331926616
+springfield,37.1943,-93.2916,United States,Missouri,0.05785884331926616
+springfield,40.6994,-74.3254,United States,New Jersey,0.05785884331926616
+springfield,49.9292,-96.6939,Canada,Manitoba,0.05785884331926616
+springfield,38.781,-77.1839,United States,Virginia,0.05785884331926616
+springfield,40.0986,-75.2016,United States,Pennsylvania,0.05785884331926616
+springfield,36.4949,-86.8711,United States,Tennessee,0.05785884331926616
+springfield,39.7709,-89.654,United States,Illinois,0.05785884331926616
+springfield,42.1155,-72.5395,United States,Massachusetts,0.05785884331926616
+para,5.5167,-7.3333,Côte d'Ivoire,Bas-Sassandra,0.05726617477962803
+adelaide,-34.9275,138.6,Australia,South Australia,0.057136813306174705
+dowa,-13.6667,33.9167,Malawi,Dowa,0.05657304560544896
+sunrise,26.1547,-80.2997,United States,Florida,0.05639207490791465
+sauce,-30.0667,-58.7667,Argentina,Corrientes,0.05627706912593755
+perl,49.4667,6.3667,Germany,Saarland,0.05627531302633637
+hayward,37.6328,-122.0766,United States,California,0.05608603981727833
+eccles,53.4824,-2.339,United Kingdom,Salford,0.056030873351291866
+buchanan,5.8808,-10.0467,Liberia,Grand Bassa,0.05592075573811439
+berlin,41.6114,-72.7758,United States,Connecticut,0.05578318408743943
+berlin,44.4869,-71.2599,United States,New Hampshire,0.05578318408743943
+berlin,52.52,13.405,Germany,Berlin,0.05578318408743943
+anna,33.3472,-96.5508,United States,Texas,0.05550338886027828
+marathon,24.7263,-81.0374,United States,Florida,0.055255501685886
+tacoma,47.2431,-122.4531,United States,Washington,0.055144467644050676
+exeter,40.3139,-75.834,United States,Pennsylvania,0.05477677387244617
+exeter,50.7256,-3.5269,United Kingdom,Devon,0.05477677387244617
+exeter,42.9901,-70.9646,United States,New Hampshire,0.05477677387244617
+exeter,36.2941,-119.1459,United States,California,0.05477677387244617
+granger,41.7374,-86.1348,United States,Indiana,0.054556849446361855
+providence,41.823,-71.4187,United States,Rhode Island,0.05451341389279085
+clearview,44.3981,-80.0742,Canada,Ontario,0.05423780819458812
+stokke,59.24,10.2708,Norway,Vestfold og Telemark,0.05408322894182527
+lorraine,45.6833,-73.7833,Canada,Quebec,0.05406574666536257
+cortez,37.3503,-108.5768,United States,Colorado,0.05394507851316832
+bryant,34.6152,-92.4914,United States,Arkansas,0.053885676647809744
+bronx,40.8501,-73.8662,United States,New York,0.053874637744037446
+huntington,40.8521,-73.3823,United States,New York,0.05365052173294205
+huntington,53.9926,-1.043,United Kingdom,York,0.05365052173294205
+huntington,38.4109,-82.4345,United States,West Virginia,0.05365052173294205
+huntington,40.881,-85.5063,United States,Indiana,0.05365052173294205
+huntington,38.7916,-77.074,United States,Virginia,0.05365052173294205
+godfrey,38.9577,-90.2156,United States,Illinois,0.053227424930309075
+rush,53.522,-6.089,Ireland,Fingal,0.05282314868733662
+rum,47.2872,11.4581,Austria,Tirol,0.052610856457079525
+shoreline,47.7564,-122.3426,United States,Washington,0.05156246005051712
+wadsworth,41.0279,-81.7323,United States,Ohio,0.05114337841553518
+lima,40.741,-84.112,United States,Ohio,0.05067881853652889
+lima,-12.06,-77.0375,Peru,Lima,0.05067881853652889
+lima,-23.9,-56.3333,Paraguay,San Pedro,0.05067881853652889
+pita,11.08,-12.401,Guinea,Mamou,0.05022324177828108
+colorado,-22.8378,-51.9728,Brazil,Paraná,0.05018352861845532
+kola,22.43,87.87,India,West Bengal,0.04977166923105314
+kola,68.8833,33.0833,Russia,Murmanskaya Oblast’,0.04977166923105314
+ladysmith,48.9975,-123.8203,Canada,British Columbia,0.04967668375439194
+ladysmith,-28.5597,29.7806,South Africa,KwaZulu-Natal,0.04967668375439194
+redhill,51.2393,-0.1726,United Kingdom,Surrey,0.04872873741052275
+croydon,40.0911,-74.8975,United States,Pennsylvania,0.0485263665924589
+croydon,51.3727,-0.1099,United Kingdom,Croydon,0.0485263665924589
+bucyrus,40.8054,-82.9719,United States,Ohio,0.04838523980163889
+bam,29.1061,58.3569,Iran,Kermān,0.04830568845784644
+eugene,44.0564,-123.1174,United States,Oregon,0.048286345489500726
+somerville,-38.226,145.177,Australia,Victoria,0.04801942775932344
+somerville,42.3908,-71.1014,United States,Massachusetts,0.04801942775932344
+somerville,40.5696,-74.6092,United States,New Jersey,0.04801942775932344
+everett,42.4064,-71.0545,United States,Massachusetts,0.04798190812772685
+everett,47.9525,-122.1669,United States,Washington,0.04798190812772685
+cleveland,41.4764,-81.6805,United States,Ohio,0.04783485641108809
+cleveland,33.744,-90.7285,United States,Mississippi,0.04783485641108809
+cleveland,35.1817,-84.8707,United States,Tennessee,0.04783485641108809
+gran,60.4411,10.4956,Norway,Innlandet,0.04742268527147164
+tara,56.8833,74.3667,Russia,Omskaya Oblast’,0.047394163800034805
+hopkins,44.9259,-93.4056,United States,Minnesota,0.04727824057613084
+manhattan,40.7834,-73.9662,United States,New York,0.047164229692486126
+manhattan,41.4274,-87.9805,United States,Illinois,0.047164229692486126
+manhattan,39.1886,-96.6048,United States,Kansas,0.047164229692486126
+kelso,46.1236,-122.8909,United States,Washington,0.046764577712243405
+kelso,-33.4186,149.6056,Australia,New South Wales,0.046764577712243405
+tame,6.4667,-71.7333,Colombia,Arauca,0.04671237328074662
+puck,54.7,18.4,Poland,Pomorskie,0.045931287859031444
+edd,13.9333,41.7,Eritrea,Debubawi K’eyyĭḥ Baḥri,0.04535447351515931
+crest,44.7283,5.0222,France,Auvergne-Rhône-Alpes,0.045225469953983466
+cecil,40.3147,-80.1942,United States,Pennsylvania,0.04510881478192119
+ceres,-15.3078,-49.5978,Brazil,Goiás,0.04510536194714643
+ceres,37.5952,-120.962,United States,California,0.04510536194714643
+ceres,-29.8667,-61.95,Argentina,Santa Fe,0.04510536194714643
+wagner,-12.2869,-41.1678,Brazil,Bahia,0.04461458206601443
+windsor,51.4791,-0.6095,United Kingdom,Windsor and Maidenhead,0.04457577444737004
+windsor,40.469,-104.9198,United States,Colorado,0.04457577444737004
+windsor,38.5422,-122.8089,United States,California,0.04457577444737004
+windsor,42.2833,-83.0,Canada,Ontario,0.04457577444737004
+windsor,43.2405,-89.2948,United States,Wisconsin,0.04457577444737004
+windsor,41.871,-72.6736,United States,Connecticut,0.04457577444737004
+chesterfield,40.1166,-74.6459,United States,New Jersey,0.04452084717446936
+chesterfield,38.6589,-90.5803,United States,Missouri,0.04452084717446936
+chesterfield,53.2358,-1.4275,United Kingdom,Derbyshire,0.04452084717446936
+chard,50.8728,-2.9587,United Kingdom,Somerset,0.04402883542074254
+beaumont,33.9076,-116.9766,United States,California,0.043216197210210194
+beaumont,53.3572,-113.4147,Canada,Alberta,0.043216197210210194
+beaumont,45.7517,3.0831,France,Auvergne-Rhône-Alpes,0.043216197210210194
+beaumont,18.4833,-73.9667,Haiti,Grand’Anse,0.043216197210210194
+beaumont,30.0849,-94.1451,United States,Texas,0.043216197210210194
+mino,35.5448,136.9076,Japan,Gifu,0.04306429082322227
+sweden,43.1791,-77.9406,United States,New York,0.04304629433177354
+hurricane,37.1487,-113.3517,United States,Utah,0.04290241873190481
+mani,13.26,-0.2094,Burkina Faso,Est,0.04274771845324088
+sem,59.2792,10.3278,Norway,Vestfold og Telemark,0.04219688380220743
+chita,35.0,136.8667,Japan,Aichi,0.04207760960801199
+chita,6.1667,-72.4167,Colombia,Boyacá,0.04207760960801199
+chita,52.0333,113.5,Russia,Zabaykal’skiy Kray,0.04207760960801199
+ely,52.3981,0.2622,United Kingdom,Cambridgeshire,0.04201854580096542
+brooks,50.5642,-111.8989,Canada,Alberta,0.04199210686452992
+irving,32.8583,-96.9702,United States,Texas,0.04156135324004917
+prescott,34.5849,-112.4473,United States,Arizona,0.04153234751209223
+winchester,51.0632,-1.308,United Kingdom,Hampshire,0.04150490527658579
+winchester,42.4518,-71.1463,United States,Massachusetts,0.04150490527658579
+winchester,41.9218,-73.1028,United States,Connecticut,0.04150490527658579
+winchester,38.0018,-84.1908,United States,Kentucky,0.04150490527658579
+winchester,35.1898,-86.1075,United States,Tennessee,0.04150490527658579
+winchester,36.1365,-115.137,United States,Nevada,0.04150490527658579
+winchester,39.1735,-78.1746,United States,Virginia,0.04150490527658579
+chester,44.65,-64.3,Canada,Nova Scotia,0.04112987015053582
+chester,53.19,-2.89,United Kingdom,Cheshire West and Chester,0.04112987015053582
+chester,39.8456,-75.3718,United States,Pennsylvania,0.04112987015053582
+chester,37.3531,-77.4342,United States,Virginia,0.04112987015053582
+op,25.2092,85.3019,India,Bihār,0.040811293371089574
+bell,33.9801,-118.1798,United States,California,0.04079495866461502
+brandywine,38.6963,-76.8846,United States,Maryland,0.04060367943107157
+sara,11.25,123.0167,Philippines,Iloilo,0.040441789160647335
+mine,34.1631,131.2083,Japan,Yamaguchi,0.040309522445186485
+rockland,42.1295,-70.91,United States,Massachusetts,0.040083702526932496
+griffith,41.5277,-87.4239,United States,Indiana,0.04004446651197213
+griffith,-34.29,146.04,Australia,New South Wales,0.04004446651197213
+os,60.2269,5.4758,Norway,Vestland,0.03969927469353751
+durango,43.1689,-2.63,Spain,Basque Country,0.038934042999465235
+durango,37.2659,-107.8781,United States,Colorado,0.038934042999465235
+durango,24.025,-104.6675,Mexico,Durango,0.038934042999465235
+santa,17.486,120.4344,Philippines,Ilocos Sur,0.038806389477285874
+furukawa,36.2381,137.1862,Japan,Gifu,0.03868428335116869
+dunedin,-45.8742,170.5036,New Zealand,Otago,0.03865137090345305
+dunedin,28.0329,-82.7862,United States,Florida,0.03865137090345305
+sher,26.3422,84.621,India,Bihār,0.03863456181236935
+sigma,11.4214,122.6662,Philippines,Capiz,0.03841052670507583
+cascades,39.0464,-77.3874,United States,Virginia,0.03810934948670419
+ye,15.2467,97.8556,Myanmar,Mon State,0.037931920777248274
+revel,43.4586,2.0042,France,Occitanie,0.0378152839813608
+bole,44.8539,82.0514,China,Xinjiang,0.03745041220809264
+beverly,42.5681,-70.8627,United States,Massachusetts,0.03702635925650022
+lexington,40.7779,-99.7461,United States,Nebraska,0.036998215039777405
+lexington,42.4456,-71.2307,United States,Massachusetts,0.036998215039777405
+lexington,35.8018,-80.2682,United States,North Carolina,0.036998215039777405
+lexington,38.0423,-84.4587,United States,Kentucky,0.036998215039777405
+lexington,33.989,-81.2202,United States,South Carolina,0.036998215039777405
+honda,5.2042,-74.7417,Colombia,Tolima,0.03672718450434498
+sitka,57.2401,-135.3152,United States,Alaska,0.036707782336984796
+manor,39.9848,-76.4216,United States,Pennsylvania,0.0363984362442249
+manor,30.3562,-97.5227,United States,Texas,0.0363984362442249
+addison,41.9313,-88.0085,United States,Illinois,0.036315313942941185
+addison,32.959,-96.8355,United States,Texas,0.036315313942941185
+lara,-38.0167,144.4167,Australia,Victoria,0.03630474838127473
+navan,53.6528,-6.6814,Ireland,Meath,0.03626851899478145
+ronda,10.0003,123.4095,Philippines,Cebu,0.03621042706732047
+ronda,36.7372,-5.1647,Spain,Andalusia,0.03621042706732047
+dallas,33.9152,-84.8416,United States,Georgia,0.03609753286699369
+dallas,44.9221,-123.313,United States,Oregon,0.03609753286699369
+dallas,32.7935,-96.7667,United States,Texas,0.03609753286699369
+dallas,41.3608,-75.9656,United States,Pennsylvania,0.03609753286699369
+norman,35.2335,-97.3471,United States,Oklahoma,0.03551617733784984
+butterworth,5.3992,100.3639,Malaysia,Pulau Pinang,0.03521744341055855
+vermilion,41.4103,-82.3214,United States,Ohio,0.035141529694950435
+gaza,31.5069,34.456,Gaza Strip,,0.03510459208000427
+umi,33.5675,130.5111,Japan,Fukuoka,0.03508786946473019
+feni,23.0183,91.41,Bangladesh,Chattogram,0.03501989138063977
+ashton,-44.0333,171.7667,New Zealand,Canterbury,0.034877297033894195
+ashton,53.4897,-2.0952,United Kingdom,Tameside,0.034877297033894195
+bor,37.8833,34.5667,Turkey,Niğde,0.03482700973985753
+bor,56.35,44.0833,Russia,Nizhegorodskaya Oblast’,0.03482700973985753
+bor,6.2125,31.5608,South Sudan,Jonglei,0.03482700973985753
+bor,44.1303,22.1036,Serbia,Bor,0.03482700973985753
+perm,58.0139,56.2489,Russia,Permskiy Kray,0.03478372898459392
+brad,46.1294,22.79,Romania,Hunedoara,0.0346022366723715
+peer,51.1328,5.4536,Belgium,Flanders,0.03448553279844946
+pearl,32.273,-90.0918,United States,Mississippi,0.03427573744446
+grad,46.7977,16.0984,Slovenia,Grad,0.03393793381767418
+dolo,45.4269,12.0753,Italy,Veneto,0.03356286360328087
+riverside,41.831,-87.8169,United States,Illinois,0.033450806984539505
+riverside,33.9381,-117.3949,United States,California,0.033450806984539505
+riverside,41.0318,-73.5827,United States,Connecticut,0.033450806984539505
+riverside,39.7835,-84.1219,United States,Ohio,0.033450806984539505
+midway,30.4169,-87.0229,United States,Florida,0.03343469054667558
+puyallup,47.1793,-122.2902,United States,Washington,0.03325431933955114
+highland,38.7602,-89.6812,United States,Illinois,0.0331371708766679
+highland,40.4276,-111.7957,United States,Utah,0.0331371708766679
+highland,34.1113,-117.165,United States,California,0.0331371708766679
+highland,41.5483,-87.4588,United States,Indiana,0.0331371708766679
+caledonia,42.7986,-87.8762,United States,Wisconsin,0.03297695467302664
+vashon,47.4122,-122.4726,United States,Washington,0.03289007175072611
+penn,40.1864,-76.3726,United States,Pennsylvania,0.03288055900508813
+penn,39.7994,-76.9642,United States,Pennsylvania,0.03288055900508813
+surrey,49.19,-122.8489,Canada,British Columbia,0.032700156512414535
+adrian,41.8994,-84.0447,United States,Michigan,0.032030983896507714
+mound,44.9328,-93.6591,United States,Minnesota,0.03173230033076735
+hastings,44.7318,-92.8538,United States,Minnesota,0.031114098469379625
+hastings,40.5961,-98.39,United States,Nebraska,0.031114098469379625
+hastings,50.85,0.57,United Kingdom,East Sussex,0.031114098469379625
+hastings,43.3215,-76.1582,United States,New York,0.031114098469379625
+bellefontaine,40.3627,-83.763,United States,Ohio,0.03108684637963466
+norcross,33.9379,-84.2065,United States,Georgia,0.030839542274868736
+raymond,43.0322,-71.1994,United States,New Hampshire,0.030615773268182767
+bron,45.7394,4.9139,France,Auvergne-Rhône-Alpes,0.030591600537233754
+ron,15.67,75.73,India,Karnātaka,0.030530252507055877
+mason,39.3571,-84.3023,United States,Ohio,0.030181534129053444
+morton,40.6135,-89.4669,United States,Illinois,0.029965761324373785
+fate,32.943,-96.3858,United States,Texas,0.029532409393103864
+theodore,-24.95,150.0833,Australia,Queensland,0.02932207395263009
+kin,26.4562,127.926,Japan,Okinawa,0.02929225764770227
+dumont,-21.2364,-47.9733,Brazil,São Paulo,0.029205175434674602
+dumont,40.9452,-73.9923,United States,New Jersey,0.029205175434674602
+sherman,33.6273,-96.6221,United States,Texas,0.029146479463653785
+elko,40.8381,-115.7678,United States,Nevada,0.02906808324997001
+petrel,38.4789,-0.7967,Spain,Valencia,0.028576289730190663
+garner,35.6936,-78.6181,United States,North Carolina,0.028232638087387185
+kami,33.6,133.6833,Japan,Kōchi,0.02821261725731261
+kami,38.5718,140.8548,Japan,Miyagi,0.02821261725731261
+multi,22.2847,88.4053,India,West Bengal,0.028175115054393962
+hull,42.2861,-70.8835,United States,Massachusetts,0.028010799601271064
+fairfield,38.2583,-122.0335,United States,California,0.027864077319860514
+fairfield,41.0064,-91.9667,United States,Iowa,0.027864077319860514
+fairfield,39.3301,-84.5409,United States,Ohio,0.027864077319860514
+fairfield,41.1775,-73.2733,United States,Connecticut,0.027864077319860514
+fairfield,33.4747,-86.9194,United States,Alabama,0.027864077319860514
+logan,40.5263,-78.4234,United States,Pennsylvania,0.027303300137944908
+logan,41.7399,-111.8422,United States,Utah,0.027303300137944908
+bern,46.9481,7.4475,Switzerland,Bern,0.027021008373205424
+timmins,48.4667,-81.3333,Canada,Ontario,0.026857736643534635
+rita,10.4337,-83.753,Costa Rica,Limón,0.026568354708448427
+mota,11.0833,37.8667,Ethiopia,Āmara,0.02644043775536231
+media,46.15,24.35,Romania,Sibiu,0.025948569557271206
+flint,43.0236,-83.6921,United States,Michigan,0.02575563281582882
+flint,53.2482,-3.1358,United Kingdom,Flintshire,0.02575563281582882
+ba,-17.5333,177.6833,Fiji,Ba,0.025283448593896973
+bonanza,14.0275,-84.6211,Nicaragua,Costa Caribe Norte,0.025254318099038442
+hillside,40.6961,-74.2286,United States,New Jersey,0.02497427947759867
+manila,14.5958,120.9772,Philippines,Manila,0.024414121893840735
+dubrovnik,42.6403,18.1083,Croatia,Dubrovačko-Neretvanska Županija,0.024324776305711393
+argenta,44.6153,11.8333,Italy,Emilia-Romagna,0.024253858280260276
+of,40.945,40.2644,Turkey,Trabzon,0.024240623454173882
+peters,40.2739,-80.0803,United States,Pennsylvania,0.023552710371561814
+cave,41.8167,12.9333,Italy,Lazio,0.02353964259841368
+parker,39.5084,-104.7753,United States,Colorado,0.02321277615952777
+parker,34.8513,-82.4512,United States,South Carolina,0.02321277615952777
+haddington,55.956,-2.781,United Kingdom,East Lothian,0.023188631521401826
+woodland,38.6712,-121.75,United States,California,0.022809542999930987
+burke,38.7773,-77.2633,United States,Virginia,0.022720358069037383
+nadi,-17.8,177.4167,Fiji,Ba,0.022594993951212117
+dent,39.1915,-84.6601,United States,Ohio,0.022169994228090628
+eden,36.5027,-79.7412,United States,North Carolina,0.021949333921551295
+sparks,39.5736,-119.7161,United States,Nevada,0.02177773064770605
+manage,50.5,4.2333,Belgium,Wallonia,0.02111732746714201
+savage,44.7545,-93.3632,United States,Minnesota,0.0207620760243713
+granby,41.9694,-72.8346,United States,Connecticut,0.020143533445355244
+granby,45.4,-72.7333,Canada,Quebec,0.020143533445355244
+enid,36.4063,-97.87,United States,Oklahoma,0.020109632425773905
+antelope,38.7153,-121.361,United States,California,0.02005538917545735
+frederick,39.4337,-77.4141,United States,Maryland,0.01990965067375139
+frederick,40.1088,-104.9701,United States,Colorado,0.01990965067375139
+mclean,38.9436,-77.1943,United States,Virginia,0.018759335148705758
+groves,29.9457,-93.9164,United States,Texas,0.018739315967225556
+sion,46.2333,7.3667,Switzerland,Valais,0.018711377935619944
+selwyn,44.4167,-78.3333,Canada,Ontario,0.01824778967133156
+midland,43.6241,-84.2319,United States,Michigan,0.01762486693002474
+midland,32.0243,-102.1147,United States,Texas,0.01762486693002474
+midland,44.75,-79.8833,Canada,Ontario,0.01762486693002474
+midland,47.1734,-122.412,United States,Washington,0.01762486693002474
+mack,39.1492,-84.6794,United States,Ohio,0.017575588580124202
+amos,48.5667,-78.1167,Canada,Quebec,0.017316471597483174
+wall,40.1674,-74.0974,United States,New Jersey,0.01704345137167318
+edwards,39.6215,-106.6184,United States,Colorado,0.016909808116481573
+rodeo,-30.2164,-69.1394,Argentina,San Juan,0.01688929430446029
+rodeo,38.0367,-122.2526,United States,California,0.01688929430446029
+patti,38.1389,14.9648,Italy,Sicilia,0.016774652408093726
+patti,31.28,74.86,India,Punjab,0.016774652408093726
+holt,42.6416,-84.5308,United States,Michigan,0.016040498327802633
+brooklyn,41.4349,-81.7497,United States,Ohio,0.015776849268383852
+brooklyn,40.6501,-73.9496,United States,New York,0.015776849268383852
+reddish,53.4383,-2.1613,United Kingdom,Stockport,0.015493629539016895
+lens,50.4322,2.8333,France,Hauts-de-France,0.015314708343591388
+dickson,36.0637,-87.3665,United States,Tennessee,0.015199936129497105
+carroll,42.0699,-94.8646,United States,Iowa,0.015008900325329977
+whitney,36.1008,-115.0379,United States,Nevada,0.014592261344302138
+spokane,47.6671,-117.433,United States,Washington,0.014452858024090354
+blenheim,-41.5167,173.95,New Zealand,Marlborough,0.014415084645610587
+baxter,46.3426,-94.2793,United States,Minnesota,0.014126674363366676
+liverpool,53.4075,-2.9919,United Kingdom,Liverpool,0.014122820153949056
+cadillac,44.2493,-85.4164,United States,Michigan,0.01409202701494372
+chapelle,19.4167,-72.55,Haiti,Artibonite,0.01305068022112399
+cloncurry,-20.7047,140.5052,Australia,Queensland,0.01286940995463648
+moore,40.7798,-75.422,United States,Pennsylvania,0.012822666012633155
+moore,35.3293,-97.4757,United States,Oklahoma,0.012822666012633155
+mckinney,33.2016,-96.667,United States,Texas,0.012589684243931143
+orion,14.6206,120.5817,Philippines,Bataan,0.011734301171161254
+morris,40.7959,-74.4945,United States,New Jersey,0.011395863019787233
+morris,41.3749,-88.4304,United States,Illinois,0.011395863019787233
+dingle,11.05,122.6667,Philippines,Iloilo,0.01133758112564165
+dingle,53.3774,-2.9613,United Kingdom,Liverpool,0.01133758112564165
+magna,40.7634,-112.1599,United States,Utah,0.011078191928924563
+reading,40.34,-75.9267,United States,Pennsylvania,0.010540800490580593
+reading,51.4542,-0.9731,United Kingdom,Reading,0.010540800490580593
+reading,39.2242,-84.4333,United States,Ohio,0.010540800490580593
+reading,42.5351,-71.1056,United States,Massachusetts,0.010540800490580593
+iwai,35.5833,134.3333,Japan,Tottori,0.010420340169472575
+crosby,53.4872,-3.0343,United Kingdom,Sefton,0.009980957918476308
+sidney,40.2891,-84.1667,United States,Ohio,0.009774029494361125
+sidney,48.6506,-123.3986,Canada,British Columbia,0.009774029494361125
+emerald,-23.5208,148.1619,Australia,Queensland,0.009754728958767833
+cloverleaf,29.7882,-95.1724,United States,Texas,0.009742810850513983
+williston,48.1814,-103.6364,United States,North Dakota,0.009286106913374392
+williston,44.4345,-73.0888,United States,Vermont,0.009286106913374392
+lockhart,28.627,-81.4354,United States,Florida,0.009276285225674141
+lockhart,29.8785,-97.6831,United States,Texas,0.009276285225674141
+tire,38.0833,27.7333,Turkey,İzmir,0.008644086609019719
+pau,43.3,-0.37,France,Nouvelle-Aquitaine,0.008635673257041843
+ono,34.8497,134.9342,Japan,Hyōgo,0.00853032086887806
+ono,35.9797,136.4875,Japan,Fukui,0.00853032086887806
+norton,41.964,-71.1842,United States,Massachusetts,0.008363971930596792
+norton,-17.8833,30.7,Zimbabwe,Mashonaland West,0.008363971930596792
+norton,54.589,-1.3157,United Kingdom,Stockton-on-Tees,0.008363971930596792
+norton,41.0294,-81.6461,United States,Ohio,0.008363971930596792
+westbrook,43.6954,-70.3539,United States,Maine,0.0068092961237007366
+surprise,33.6815,-112.4515,United States,Arizona,0.006711080390110147
+carlisle,40.2,-77.2034,United States,Pennsylvania,0.006514778898215612
+carlisle,54.891,-2.944,United Kingdom,Cumbria,0.006514778898215612
+kent,41.149,-81.361,United States,Ohio,0.006235893312665053
+kent,47.3887,-122.2128,United States,Washington,0.006235893312665053
+kent,41.4735,-73.7319,United States,New York,0.006235893312665053
+luna,16.9667,121.7333,Philippines,Isabela,0.006017654479531287
+luna,16.85,120.3833,Philippines,La Union,0.006017654479531287
+luna,18.3311,121.3725,Philippines,Apayao,0.006017654479531287
+panda,-24.0629,34.7303,Mozambique,Inhambane,0.005960916887445933
+chihuahua,28.6353,-106.0889,Mexico,Chihuahua,0.005596924151103577
+toronto,43.7417,-79.3733,Canada,Ontario,0.005533620549329044
+bradford,53.8,-1.75,United Kingdom,Bradford,0.0054594550632588446
+mono,44.0167,-80.0667,Canada,Ontario,0.005156554770141986
+tangier,35.7767,-5.8039,Morocco,Tanger-Tétouan-Al Hoceïma,0.0049028510626767385
+ho,6.6119,0.4703,Ghana,Volta,0.00473719783552462
+westport,-41.7581,171.6022,New Zealand,West Coast,0.004711292063229511
+westport,41.1428,-73.3475,United States,Connecticut,0.004711292063229511
+westport,41.5886,-71.0837,United States,Massachusetts,0.004711292063229511
+agar,23.7118,76.0157,India,Madhya Pradesh,0.00463492547788491
+fullerton,40.6309,-75.4834,United States,Pennsylvania,0.004611326955829775
+fullerton,33.8841,-117.9279,United States,California,0.004611326955829775
+downey,33.9379,-118.1311,United States,California,0.0043971110068093955
+northcote,-36.8019,174.7494,New Zealand,Auckland,0.004379818281255443
+roy,41.1714,-112.0485,United States,Utah,0.0034640189877809258
+davidson,35.484,-80.8247,United States,North Carolina,0.0033453471242217425
+male,4.1753,73.5089,Maldives,Maale,0.0028987490512610847
+granville,48.8381,-1.5869,France,Normandie,0.0024681530480543667
+centralia,46.7223,-122.9696,United States,Washington,0.0023543001628424376
+centralia,38.5224,-89.1232,United States,Illinois,0.0023543001628424376
+echelon,39.8482,-74.9957,United States,New Jersey,0.00232773795522101
+bo,20.6736,105.5311,Vietnam,Hòa Bình,0.002300560369348559
+bo,7.9564,-11.74,Sierra Leone,Southern,0.002300560369348559
+overland,38.6966,-90.3689,United States,Missouri,0.0022243823001529828
+orange,-33.2833,149.1,Australia,New South Wales,0.0016754840915547131
+orange,41.2827,-73.0272,United States,Connecticut,0.0016754840915547131
+orange,33.8038,-117.8218,United States,California,0.0016754840915547131
+orange,44.1383,4.8097,France,Provence-Alpes-Côte d’Azur,0.0016754840915547131
+orange,30.1226,-93.7607,United States,Texas,0.0016754840915547131
+ripley,53.05,-1.407,United Kingdom,Derbyshire,0.0015556139741105257
+erode,11.3409,77.7171,India,Tamil Nādu,0.0010857140210905891
+johannesburg,-26.2044,28.0456,South Africa,Gauteng,0.001031321373100913
+caldera,-27.0667,-70.8333,Chile,Atacama,0.000951617614479261
+hard,47.4892,9.69,Austria,Vorarlberg,0.0009464374411702892
+peru,40.7593,-86.0756,United States,Indiana,0.0008417558651384605
+peru,41.3482,-89.1371,United States,Illinois,0.0008417558651384605
+metro,-5.1167,105.3,Indonesia,Lampung,0.0008269578304425096
+grave,51.7667,5.7333,Netherlands,Noord-Brabant,0.0002141321120200379
+sunnyside,46.3157,-120.0058,United States,Washington,-1.4515021772076864e-05
+murray,40.6498,-111.8874,United States,Utah,-0.00025533602924521226
+murray,36.6146,-88.3207,United States,Kentucky,-0.00025533602924521226
+arcadia,34.1342,-118.0373,United States,California,-0.0003716754728950722
+arcadia,43.087,-77.0858,United States,New York,-0.0003716754728950722
+brock,44.3167,-79.0833,Canada,Ontario,-0.0004932607807315303
+alamo,26.181,-98.1177,United States,Texas,-0.0006126890434010601
+alamo,37.8548,-122.0136,United States,California,-0.0006126890434010601
+whitehorse,60.7029,-135.0691,Canada,Yukon,-0.0006377979426175351
+jennings,38.7231,-90.2644,United States,Missouri,-0.0007443541327776249
+jennings,30.2233,-92.6582,United States,Louisiana,-0.0007443541327776249
+troy,42.5817,-83.1457,United States,Michigan,-0.0010061519785502515
+troy,31.8021,-85.9664,United States,Alabama,-0.0010061519785502515
+troy,42.7354,-73.6751,United States,New York,-0.0010061519785502515
+troy,38.7268,-89.8977,United States,Illinois,-0.0010061519785502515
+troy,40.0437,-84.2186,United States,Ohio,-0.0010061519785502515
+troy,38.9708,-90.9714,United States,Missouri,-0.0010061519785502515
+vaughan,43.8333,-79.5,Canada,Ontario,-0.0011654696320828606
+allen,12.5013,124.282,Philippines,Northern Samar,-0.0016584988770083076
+allen,-38.9667,-67.8333,Argentina,Río Negro,-0.0016584988770083076
+allen,33.1088,-96.6735,United States,Texas,-0.0016584988770083076
+elizabeth,40.6658,-74.1913,United States,New Jersey,-0.001827604691940321
+roman,46.93,26.93,Romania,Neamţ,-0.0022333649573424985
+kingston,-42.9769,147.3083,Australia,Tasmania,-0.002466334788688851
+kingston,17.9714,-76.7931,Jamaica,Kingston,-0.002466334788688851
+kingston,41.2652,-75.8876,United States,Pennsylvania,-0.002466334788688851
+kingston,41.9862,-70.7482,United States,Massachusetts,-0.002466334788688851
+kingston,-29.0569,167.9617,Norfolk Island,,-0.002466334788688851
+kingston,41.9295,-73.9968,United States,New York,-0.002466334788688851
+dison,50.6167,5.85,Belgium,Wallonia,-0.0024865916422318612
+gibraltar,36.1333,-5.35,Gibraltar,,-0.0027841670213890612
+beaufort,32.4597,-80.7235,United States,South Carolina,-0.0030429597305361433
+westwood,42.3031,-85.6286,United States,Michigan,-0.003620881313027624
+westwood,42.2202,-71.2106,United States,Massachusetts,-0.003620881313027624
+westwood,40.9878,-74.0308,United States,New Jersey,-0.003620881313027624
+slough,51.5084,-0.5881,United Kingdom,Slough,-0.004010970643769873
+tone,35.8578,140.1392,Japan,Ibaraki,-0.004076008534744879
+boom,51.0833,4.3667,Belgium,Flanders,-0.00430399249867941
+pen,18.75,73.08,India,Mahārāshtra,-0.0046472483445105794
+ocean,40.252,-74.0392,United States,New Jersey,-0.004838424364701721
+evans,40.366,-104.739,United States,Colorado,-0.005063950944882212
+evans,42.6528,-79.0063,United States,New York,-0.005063950944882212
+evans,33.5619,-82.1351,United States,Georgia,-0.005063950944882212
+heath,40.0241,-82.4413,United States,Ohio,-0.005128933088823562
+heath,32.8439,-96.4674,United States,Texas,-0.005128933088823562
+bowen,-20.0102,148.2416,Australia,Queensland,-0.00526516771240515
+murphy,33.0186,-96.6105,United States,Texas,-0.005270038268653909
+kem,64.95,34.5833,Russia,Kareliya,-0.005739728069189098
+adams,40.7092,-80.0118,United States,Pennsylvania,-0.005768812002976853
+alameda,37.7668,-122.267,United States,California,-0.005866046352478449
+katherine,-14.4667,132.2667,Australia,Northern Territory,-0.0059353486615953965
+kirkland,45.45,-73.8667,Canada,Quebec,-0.006152502102394708
+kirkland,47.697,-122.2057,United States,Washington,-0.006152502102394708
+kirkland,43.0368,-75.3865,United States,New York,-0.006152502102394708
+chicago,41.8375,-87.6866,United States,Illinois,-0.006200496238161879
+barton,42.0812,-76.4982,United States,New York,-0.006202988791213171
+newcastle,47.5304,-122.1633,United States,Washington,-0.0067069668573940255
+newcastle,35.2401,-97.5995,United States,Oklahoma,-0.0067069668573940255
+newcastle,54.98,-1.61,United Kingdom,Newcastle upon Tyne,-0.0067069668573940255
+newcastle,-32.9167,151.75,Australia,New South Wales,-0.0067069668573940255
+newcastle,-27.7464,29.9328,South Africa,KwaZulu-Natal,-0.0067069668573940255
+van,38.4942,43.38,Turkey,Van,-0.006889146872023133
+mobile,30.6782,-88.1162,United States,Alabama,-0.007612921516845006
+republic,37.1452,-93.4446,United States,Missouri,-0.00822068729618608
+crofton,39.0144,-76.68,United States,Maryland,-0.008505442482361625
+sterling,39.0052,-77.405,United States,Virginia,-0.008583328873741358
+sterling,40.6205,-103.1925,United States,Colorado,-0.008583328873741358
+sterling,41.7996,-89.6956,United States,Illinois,-0.008583328873741358
+pia,42.7447,2.9208,France,Occitanie,-0.00860642705831749
+parsons,37.3405,-95.2958,United States,Kansas,-0.008611253617502923
+brewer,44.7835,-68.7352,United States,Maine,-0.008686882548466723
+fenton,42.7994,-83.7144,United States,Michigan,-0.008945496941494602
+fenton,52.9977,-2.1578,United Kingdom,Stoke-on-Trent,-0.008945496941494602
+gold,33.5874,74.1445,India,Jammu and Kashmīr,-0.00914427252047112
+paris,38.2016,-84.2718,United States,Kentucky,-0.009167844092458521
+paris,48.8567,2.3522,France,Île-de-France,-0.009167844092458521
+paris,39.6148,-87.6903,United States,Illinois,-0.009167844092458521
+paris,36.2933,-88.3065,United States,Tennessee,-0.009167844092458521
+paris,33.6688,-95.546,United States,Texas,-0.009167844092458521
+pierre,44.3748,-100.3205,United States,South Dakota,-0.009535366312674043
+stirling,56.1166,-3.9369,United Kingdom,Stirling,-0.009703015390566838
+inca,39.7167,2.9167,Spain,Balearic Islands,-0.009719287548218825
+bar,49.0781,27.6831,Ukraine,Vinnytska Oblast,-0.010574518168489533
+bar,42.1,19.1,Montenegro,Bar,-0.010574518168489533
+riga,26.6553,85.442,India,Bihār,-0.010802889972932661
+riga,56.9489,24.1064,Latvia,Rīga,-0.010802889972932661
+webster,43.2294,-77.4454,United States,New York,-0.010879174519624835
+webster,29.5317,-95.1188,United States,Texas,-0.010879174519624835
+webster,42.0521,-71.8485,United States,Massachusetts,-0.010879174519624835
+plains,41.2657,-75.8131,United States,Pennsylvania,-0.010893615394649059
+vincent,34.0983,-117.9238,United States,California,-0.01094485054403016
+mesa,33.4015,-111.7178,United States,Arizona,-0.011061022289354128
+richmond,-33.5983,150.7511,Australia,New South Wales,-0.011223146475329848
+richmond,49.1667,-123.1333,Canada,British Columbia,-0.011223146475329848
+richmond,-41.3333,173.1833,New Zealand,Tasman,-0.011223146475329848
+richmond,-20.7305,143.1425,Australia,Queensland,-0.011223146475329848
+richmond,29.5824,-95.7563,United States,Texas,-0.011223146475329848
+richmond,39.8318,-84.8905,United States,Indiana,-0.011223146475329848
+richmond,37.9477,-122.3389,United States,California,-0.011223146475329848
+richmond,37.5295,-77.4756,United States,Virginia,-0.011223146475329848
+richmond,51.456,-0.301,United Kingdom,Richmond upon Thames,-0.011223146475329848
+richmond,37.7307,-84.2925,United States,Kentucky,-0.011223146475329848
+hinckley,52.5413,-1.3725,United Kingdom,Leicestershire,-0.011247625906882552
+georgina,44.3,-79.4333,Canada,Ontario,-0.011417207582970601
+yorkshire,38.7882,-77.4496,United States,Virginia,-0.012005054657363123
+phoenix,33.5722,-112.0892,United States,Arizona,-0.01226707106838032
+albino,45.7606,9.7969,Italy,Lombardy,-0.012628437252174107
+tay,44.7167,-79.7667,Canada,Ontario,-0.012645734293814659
+stanley,53.7145,-1.476,United Kingdom,Wakefield,-0.012771696090934759
+stanley,-51.7,-57.85,Falkland Islands (Islas Malvinas),,-0.012771696090934759
+stanley,49.1331,-98.0656,Canada,Manitoba,-0.012771696090934759
+marl,51.6667,7.1167,Germany,North Rhine-Westphalia,-0.01312234266881851
+northwood,51.601,-0.4176,United Kingdom,Hillingdon,-0.013195300571233082
+ob,54.9917,82.7125,Russia,Novosibirskaya Oblast’,-0.013218071135332465
+wheaton,41.8561,-88.1085,United States,Illinois,-0.013299668453919056
+wheaton,39.0492,-77.0573,United States,Maryland,-0.013299668453919056
+perth,56.3958,-3.4333,United Kingdom,Perth and Kinross,-0.013420434451677954
+perth,-31.9559,115.8606,Australia,Western Australia,-0.013420434451677954
+grandview,46.2443,-119.9092,United States,Washington,-0.013809400612213807
+grandview,38.8802,-94.5227,United States,Missouri,-0.013809400612213807
+charleston,38.3484,-81.6322,United States,West Virginia,-0.01399905784501021
+charleston,32.8168,-79.9687,United States,South Carolina,-0.01399905784501021
+charleston,39.4842,-88.1781,United States,Illinois,-0.01399905784501021
+florida,21.5294,-78.2228,Cuba,Camagüey,-0.014066701246689517
+florida,-34.5167,-58.5,Argentina,Buenos Aires,-0.014066701246689517
+florida,-36.8167,-72.6667,Chile,Biobío,-0.014066701246689517
+florida,18.3643,-66.5611,Puerto Rico,Puerto Rico,-0.014066701246689517
+florida,3.3275,-76.2386,Colombia,Valle del Cauca,-0.014066701246689517
+florida,-34.1,-56.2167,Uruguay,Florida,-0.014066701246689517
+lyon,45.76,4.84,France,Auvergne-Rhône-Alpes,-0.014067917388495443
+obo,5.4,26.5,Central African Republic,Haut-Mbomou,-0.014480663520976211
+robertson,-33.8,19.8833,South Africa,Western Cape,-0.014516505036851202
+mission,26.2039,-98.3256,United States,Texas,-0.014654540731359633
+mission,49.1337,-122.3112,Canada,British Columbia,-0.014654540731359633
+mission,39.027,-94.6568,United States,Kansas,-0.014654540731359633
+shiloh,38.5534,-89.9161,United States,Illinois,-0.015079487043709427
+shiloh,39.8159,-84.2317,United States,Ohio,-0.015079487043709427
+shiloh,39.9732,-76.792,United States,Pennsylvania,-0.015079487043709427
+lincoln,40.8099,-96.6784,United States,Nebraska,-0.01539626170171915
+lincoln,41.9171,-71.4505,United States,Rhode Island,-0.01539626170171915
+lincoln,53.2283,-0.5389,United Kingdom,Lincolnshire,-0.01539626170171915
+lincoln,38.8774,-121.2937,United States,California,-0.01539626170171915
+lincoln,43.13,-79.43,Canada,Ontario,-0.01539626170171915
+lincoln,40.1508,-89.372,United States,Illinois,-0.01539626170171915
+lincoln,-34.85,-61.5167,Argentina,Buenos Aires,-0.01539626170171915
+manville,40.542,-74.5892,United States,New Jersey,-0.01547219533944122
+gardner,42.5845,-71.9868,United States,Massachusetts,-0.015977147559519622
+gardner,38.8122,-94.9275,United States,Kansas,-0.015977147559519622
+bear,39.6189,-75.6808,United States,Delaware,-0.016069707553596047
+casino,-28.8667,153.05,Australia,New South Wales,-0.016301528717521885
+spa,50.4925,5.8642,Belgium,Wallonia,-0.016316753894443536
+taku,33.2833,130.1167,Japan,Saga,-0.016972498195643393
+esperanza,8.676,125.6454,Philippines,Agusan del Sur,-0.017012615172498968
+esperanza,19.58,-70.99,Dominican Republic,Cibao Noroeste,-0.017012615172498968
+esperanza,-31.4167,-60.9333,Argentina,Santa Fe,-0.017012615172498968
+esperanza,11.7369,124.0417,Philippines,Masbate,-0.017012615172498968
+esperanza,27.58,-109.9298,Mexico,Sonora,-0.017012615172498968
+esperanza,22.4472,-80.0966,Cuba,Villa Clara,-0.017012615172498968
+esperanza,6.7167,124.5167,Philippines,Sultan Kudarat,-0.017012615172498968
+fairbanks,64.8353,-147.6533,United States,Alaska,-0.018257946569131933
+fleet,51.2834,-0.8456,United Kingdom,Hampshire,-0.018287880330954076
+howell,42.6078,-83.9339,United States,Michigan,-0.01829614183279049
+howell,40.1819,-74.1976,United States,New Jersey,-0.01829614183279049
+preston,53.759,-2.699,United Kingdom,Lancashire,-0.018351551823431844
+lom,43.8256,23.2375,Bulgaria,Montana,-0.018429133547895882
+roscoe,42.4256,-89.0084,United States,Illinois,-0.0188614274644765
+real,14.6667,121.6,Philippines,Quezon,-0.01937524583676531
+dupont,47.1079,-122.6495,United States,Washington,-0.01956115948556736
+meru,0.05,37.65,Kenya,Meru,-0.019737000011331496
+meru,24.0097,85.4673,India,Jhārkhand,-0.019737000011331496
+march,52.551,0.088,United Kingdom,Cambridgeshire,-0.019781652509599956
+alpine,32.8439,-116.7585,United States,California,-0.019985454893408194
+alpine,40.4629,-111.7724,United States,Utah,-0.019985454893408194
+ruskin,27.7065,-82.4209,United States,Florida,-0.020009209446058884
+ridley,39.8854,-75.328,United States,Pennsylvania,-0.020317646184653704
+monroe,41.3379,-73.225,United States,Connecticut,-0.02134595879461232
+monroe,42.603,-89.6381,United States,Wisconsin,-0.02134595879461232
+monroe,41.9155,-83.3849,United States,Michigan,-0.02134595879461232
+monroe,33.799,-83.7161,United States,Georgia,-0.02134595879461232
+monroe,47.8595,-121.9851,United States,Washington,-0.02134595879461232
+monroe,32.5185,-92.0774,United States,Louisiana,-0.02134595879461232
+monroe,40.3191,-74.4286,United States,New Jersey,-0.02134595879461232
+monroe,39.4461,-84.3667,United States,Ohio,-0.02134595879461232
+monroe,35.0063,-80.5596,United States,North Carolina,-0.02134595879461232
+monroe,41.3043,-74.1941,United States,New York,-0.02134595879461232
+keta,5.9167,0.9833,Ghana,Volta,-0.021495909582518236
+dunbar,56.0027,-2.5169,United Kingdom,East Lothian,-0.02169752221811705
+falls,40.1686,-74.7915,United States,Pennsylvania,-0.021728592855540185
+galloway,39.4914,-74.4803,United States,New Jersey,-0.021945572332130014
+mcnair,38.9513,-77.4115,United States,Virginia,-0.021972220023168676
+hercules,38.0064,-122.2564,United States,California,-0.021987680242451457
+marks,51.7167,46.75,Russia,Saratovskaya Oblast’,-0.022173708454532814
+anaconda,46.0608,-113.0678,United States,Montana,-0.022773694987108906
+prospect,41.4993,-72.9761,United States,Connecticut,-0.022934535105471276
+silverton,45.003,-122.7808,United States,Oregon,-0.023150994924771906
+london,39.8935,-83.4375,United States,Ohio,-0.023286264907795173
+london,42.9836,-81.2497,Canada,Ontario,-0.023286264907795173
+london,51.5072,-0.1275,United Kingdom,"London, City of",-0.023286264907795173
+stafford,29.6271,-95.5654,United States,Texas,-0.02355739276945945
+stafford,41.9876,-72.3122,United States,Connecticut,-0.02355739276945945
+stafford,52.807,-2.117,United Kingdom,Staffordshire,-0.02355739276945945
+stafford,39.7049,-74.2643,United States,New Jersey,-0.02355739276945945
+avola,36.9167,15.1333,Italy,Sicilia,-0.02380844210565569
+sale,-38.1,147.0667,Australia,Victoria,-0.02381481348478065
+sale,34.0333,-6.8,Morocco,Rabat-Salé-Kénitra,-0.02381481348478065
+sale,53.424,-2.322,United Kingdom,Trafford,-0.02381481348478065
+trim,53.555,-6.7917,Ireland,Meath,-0.02408028356810732
+alpen,51.575,6.5125,Germany,North Rhine-Westphalia,-0.024271144197022032
+montrose,38.4689,-107.859,United States,Colorado,-0.024444145036612852
+montrose,56.708,-2.467,United Kingdom,Angus,-0.024444145036612852
+fargo,46.8651,-96.8292,United States,North Dakota,-0.024464436325041694
+barrington,43.2139,-71.0424,United States,New Hampshire,-0.02469996766583571
+barrington,42.1515,-88.1281,United States,Illinois,-0.02469996766583571
+barrington,41.7443,-71.3145,United States,Rhode Island,-0.02469996766583571
+strand,59.0633,6.0278,Norway,Rogaland,-0.024847434944991642
+enterprise,31.3275,-85.8463,United States,Alabama,-0.024941047014455986
+enterprise,36.0091,-115.2278,United States,Nevada,-0.024941047014455986
+union,38.4399,-90.9927,United States,Missouri,-0.02553580207221806
+union,40.6953,-74.2697,United States,New Jersey,-0.02553580207221806
+union,42.1258,-76.0329,United States,New York,-0.02553580207221806
+pine,40.6437,-80.0315,United States,Pennsylvania,-0.026093469875955178
+koch,24.9259,84.7724,India,Bihār,-0.026132648359094013
+hewitt,31.452,-97.196,United States,Texas,-0.026136377422675494
+juneau,58.4546,-134.1739,United States,Alaska,-0.02677429483544258
+killarney,52.0588,-9.5072,Ireland,Kerry,-0.027483917020049597
+rye,41.0075,-73.6872,United States,New York,-0.0278018164295184
+rye,50.95,0.73,United Kingdom,East Sussex,-0.0278018164295184
+johnstone,55.8346,-4.5027,United Kingdom,Renfrewshire,-0.028578246902788207
+constantine,36.365,6.6147,Algeria,Constantine,-0.028626162955188272
+chilliwack,49.1577,-121.9509,Canada,British Columbia,-0.02878047069995726
+lana,46.616,11.1449,Italy,Trentino-Alto Adige,-0.02878569461912872
+carson,33.8374,-118.2559,United States,California,-0.028863547982594717
+oas,13.2589,123.4953,Philippines,Albay,-0.028932724580621683
+valley,32.8088,-85.181,United States,Alabama,-0.0301586617523093
+bath,42.3219,-77.3083,United States,New York,-0.030167522427980265
+bath,43.9346,-69.8346,United States,Maine,-0.030167522427980265
+bath,51.38,-2.36,United Kingdom,Bath and North East Somerset,-0.030167522427980265
+craig,40.5171,-107.5554,United States,Colorado,-0.030298045818565544
+richardson,32.9716,-96.7093,United States,Texas,-0.03030808533871121
+sunset,25.706,-80.353,United States,Florida,-0.030461294775330883
+eagle,43.7223,-116.3866,United States,Idaho,-0.031121963824443766
+mustang,35.3917,-97.7246,United States,Oklahoma,-0.031150862167885984
+henrietta,43.0555,-77.6413,United States,New York,-0.03158298982612329
+lakeside,32.856,-116.904,United States,California,-0.03251055783297718
+lakeside,30.1356,-81.7674,United States,Florida,-0.03251055783297718
+lakeside,37.6132,-77.4768,United States,Virginia,-0.03251055783297718
+forks,40.7358,-75.2211,United States,Pennsylvania,-0.03339889908399907
+hollywood,26.0293,-80.1679,United States,Florida,-0.03370092786296297
+salvador,20.2094,-75.2231,Cuba,Guantánamo,-0.033974922773275074
+salvador,-12.9747,-38.4767,Brazil,Bahia,-0.033974922773275074
+ans,50.6625,5.52,Belgium,Wallonia,-0.03410743813336903
+bentley,53.551,-1.144,United Kingdom,Doncaster,-0.03412383169666189
+kokomo,40.464,-86.1277,United States,Indiana,-0.034203855452696
+ada,45.8,20.1333,Serbia,Ada,-0.03439634187399032
+ada,34.7662,-96.6681,United States,Oklahoma,-0.03439634187399032
+san,13.3004,-4.9,Mali,Ségou,-0.03463683547965002
+rosemont,38.5478,-121.3553,United States,California,-0.034734679224828424
+walker,42.9853,-85.7446,United States,Michigan,-0.03477160946147273
+ina,35.8275,137.954,Japan,Nagano,-0.034932977402078125
+ina,9.9833,2.7167,Benin,Borgou,-0.034932977402078125
+sam,11.0333,2.7333,Benin,Alibori,-0.0351102002247603
+jericho,40.7875,-73.5416,United States,New York,-0.03528937211142158
+jericho,31.8711,35.4442,West Bank,,-0.03528937211142158
+poole,50.7167,-1.9833,United Kingdom,,-0.035608573190982984
+campbell,37.2802,-121.9539,United States,California,-0.035720639416636946
+cameron,39.7444,-94.2329,United States,Missouri,-0.0359798047887947
+atlanta,33.7628,-84.422,United States,Georgia,-0.036148317861423696
+armstrong,-32.7833,-61.6,Argentina,Santa Fe,-0.036613789761831717
+hayden,47.768,-116.804,United States,Idaho,-0.036809437841647696
+munro,-34.5333,-58.5167,Argentina,Buenos Aires,-0.036871351233997984
+seymour,35.8783,-83.7669,United States,Tennessee,-0.03720775711587865
+seymour,-37.03,145.13,Australia,Victoria,-0.03720775711587865
+seymour,38.9476,-85.8911,United States,Indiana,-0.03720775711587865
+seymour,41.381,-73.0873,United States,Connecticut,-0.03720775711587865
+cranberry,40.7104,-80.1059,United States,Pennsylvania,-0.0375909466040949
+melissa,33.2891,-96.5573,United States,Texas,-0.03825906385080868
+toba,34.4813,136.8434,Japan,Mie,-0.038416547733190365
+alhambra,34.084,-118.1355,United States,California,-0.03865799279461579
+alma,43.3799,-84.6556,United States,Michigan,-0.038726842487499136
+alma,48.55,-71.65,Canada,Quebec,-0.038726842487499136
+rain,48.6833,10.9167,Germany,Bavaria,-0.038848050069458795
+queens,44.0333,-64.7167,Canada,Nova Scotia,-0.03923799689576635
+queens,40.7498,-73.7976,United States,New York,-0.03923799689576635
+dundee,56.462,-2.9707,United Kingdom,Dundee City,-0.03940762161637057
+dundee,-28.1725,30.2314,South Africa,KwaZulu-Natal,-0.03940762161637057
+woodbury,39.8379,-75.1524,United States,New Jersey,-0.03949342946847523
+woodbury,41.5615,-73.207,United States,Connecticut,-0.03949342946847523
+woodbury,41.3284,-74.1004,United States,New York,-0.03949342946847523
+woodbury,40.8176,-73.4703,United States,New York,-0.03949342946847523
+woodbury,44.9057,-92.923,United States,Minnesota,-0.03949342946847523
+denver,39.762,-104.8758,United States,Colorado,-0.03972589658435477
+lindsay,36.2082,-119.0897,United States,California,-0.03986414010372741
+clark,40.6203,-74.3134,United States,New Jersey,-0.03996580430035479
+savoy,40.06,-88.2552,United States,Illinois,-0.040491300802419916
+dunn,35.3114,-78.6129,United States,North Carolina,-0.040788639526479376
+shannon,52.7137,-8.8686,Ireland,Clare,-0.04127305125078018
+maria,9.196,123.655,Philippines,Siquijor,-0.04137620609914672
+roosevelt,40.6797,-73.5837,United States,New York,-0.04148317719985495
+mali,23.1277,104.7029,China,Yunnan,-0.041563432758692676
+mali,12.084,-12.301,Guinea,Labé,-0.041563432758692676
+burnie,-41.0636,145.8753,Australia,Tasmania,-0.0417334480574878
+saanich,48.484,-123.381,Canada,British Columbia,-0.04180467333829396
+wellington,40.7,-105.0054,United States,Colorado,-0.042104253000264436
+wellington,-41.2889,174.7772,New Zealand,Wellington,-0.042104253000264436
+wellington,52.7001,-2.5157,United Kingdom,Telford and Wrekin,-0.042104253000264436
+wellington,26.6461,-80.2699,United States,Florida,-0.042104253000264436
+wellington,50.9755,-3.2243,United Kingdom,Somerset,-0.042104253000264436
+wellington,11.3655,76.7844,India,Tamil Nādu,-0.042104253000264436
+bountiful,40.8721,-111.8647,United States,Utah,-0.042775312697026946
+sandown,50.6551,-1.1541,United Kingdom,Isle of Wight,-0.04323503636784398
+florence,40.0977,-74.7886,United States,New Jersey,-0.04327215155806874
+florence,34.178,-79.7898,United States,South Carolina,-0.04327215155806874
+florence,38.9899,-84.6471,United States,Kentucky,-0.04327215155806874
+florence,43.7714,11.2542,Italy,Tuscany,-0.04327215155806874
+florence,34.8303,-87.6655,United States,Alabama,-0.04327215155806874
+florence,43.9916,-124.1063,United States,Oregon,-0.04327215155806874
+florence,33.059,-111.4209,United States,Arizona,-0.04327215155806874
+chalco,19.2647,-98.8975,Mexico,México,-0.04327229500973062
+chalco,41.1817,-96.1353,United States,Nebraska,-0.04327229500973062
+bradley,41.1641,-87.8452,United States,Illinois,-0.0443262500727315
+brent,30.4727,-87.2495,United States,Florida,-0.04436089878113125
+holland,42.7677,-86.0984,United States,Michigan,-0.045128195364951385
+gar,32.1166,80.0583,China,Tibet,-0.04536896203171947
+butler,40.8616,-79.8962,United States,Pennsylvania,-0.04606804656853969
+butler,41.0358,-75.9798,United States,Pennsylvania,-0.04606804656853969
+mut,36.6333,33.4333,Turkey,Mersin,-0.04635218487003412
+wick,58.454,-3.089,United Kingdom,Highland,-0.04656750869791915
+spring,40.3038,-76.0262,United States,Pennsylvania,-0.046624981470885896
+spring,30.0613,-95.383,United States,Texas,-0.046624981470885896
+gilbert,33.31,-111.7463,United States,Arizona,-0.04664204919293824
+lisbon,44.0265,-70.09,United States,Maine,-0.04706643087787721
+lisbon,38.7253,-9.15,Portugal,Lisboa,-0.04706643087787721
+ingersoll,43.0392,-80.8836,Canada,Ontario,-0.047488420869344905
+gary,41.5905,-87.3473,United States,Indiana,-0.047839876755880084
+eureka,40.7943,-124.1564,United States,California,-0.04806256026475553
+eureka,38.5004,-90.6491,United States,Missouri,-0.04806256026475553
+oyama,36.3146,139.8002,Japan,Tochigi,-0.04818990037926696
+oyama,35.3601,138.9873,Japan,Kanagawa,-0.04818990037926696
+patterson,41.4849,-73.5921,United States,New York,-0.04851494268717493
+patterson,37.4758,-121.1536,United States,California,-0.04851494268717493
+ferguson,40.7432,-77.9403,United States,Pennsylvania,-0.04896430511193395
+ferguson,38.749,-90.295,United States,Missouri,-0.04896430511193395
+minehead,51.2038,-3.4738,United Kingdom,Somerset,-0.04945160113032032
+economy,40.6411,-80.1841,United States,Pennsylvania,-0.04985763131983578
+ridge,40.9068,-72.8816,United States,New York,-0.050457800555267385
+leduc,53.2594,-113.5492,Canada,Alberta,-0.05071999245165193
+sedan,49.7019,4.9403,France,Grand Est,-0.05148727697550548
+hugo,45.1671,-92.9588,United States,Minnesota,-0.05192635094006537
+lamont,35.2659,-118.9159,United States,California,-0.05234058120805374
+coquitlam,49.2839,-122.7919,Canada,British Columbia,-0.05240924383982626
+enns,48.2167,14.475,Austria,Oberösterreich,-0.05256415713573226
+jefferson,29.9609,-90.1554,United States,Louisiana,-0.05355818601697315
+jefferson,41.0003,-74.5531,United States,New Jersey,-0.05355818601697315
+jefferson,34.1373,-83.6021,United States,Georgia,-0.05355818601697315
+sue,33.5872,130.5072,Japan,Fukuoka,-0.05364388785354879
+august,37.9797,-121.2625,United States,California,-0.053713433357951645
+franklin,43.4499,-71.6691,United States,New Hampshire,-0.053824473147219054
+franklin,40.4759,-74.5515,United States,New Jersey,-0.053824473147219054
+franklin,39.5538,-84.2952,United States,Ohio,-0.053824473147219054
+franklin,35.92,-86.8516,United States,Tennessee,-0.053824473147219054
+franklin,39.5954,-75.019,United States,New Jersey,-0.053824473147219054
+franklin,42.0862,-71.4113,United States,Massachusetts,-0.053824473147219054
+franklin,42.8854,-88.0104,United States,Wisconsin,-0.053824473147219054
+franklin,36.7177,-86.5595,United States,Kentucky,-0.053824473147219054
+franklin,39.4948,-86.0544,United States,Indiana,-0.053824473147219054
+sake,-1.5741,29.0413,Congo (Kinshasa),Nord-Kivu,-0.05396284808797125
+collier,40.3991,-80.1322,United States,Pennsylvania,-0.05424201118586236
+spencer,42.2471,-71.9919,United States,Massachusetts,-0.0542801072599266
+spencer,43.1468,-95.1534,United States,Iowa,-0.0542801072599266
+sharon,42.1085,-71.183,United States,Massachusetts,-0.054305579699318596
+sharon,41.234,-80.4998,United States,Pennsylvania,-0.054305579699318596
+wenatchee,47.436,-120.3295,United States,Washington,-0.0543211712908791
+stanford,37.4252,-122.1674,United States,California,-0.05535235809681471
+gloria,12.9722,121.4778,Philippines,Oriental Mindoro,-0.056011061440191634
+merrick,40.6515,-73.5535,United States,New York,-0.05614277111924704
+fairmont,39.4768,-80.1491,United States,West Virginia,-0.05658484684760312
+fairmont,43.6441,-94.4621,United States,Minnesota,-0.05658484684760312
+davie,26.0789,-80.287,United States,Florida,-0.05704139025182098
+sheridan,44.7961,-106.9642,United States,Wyoming,-0.05725521008658507
+date,42.4719,140.8647,Japan,Hokkaidō,-0.05735487074559331
+date,37.8191,140.563,Japan,Fukushima,-0.05735487074559331
+indi,17.1773,75.9526,India,Karnātaka,-0.05840721124528403
+ross,40.5256,-80.0243,United States,Pennsylvania,-0.058491903010006396
+salem,42.5129,-70.9021,United States,Massachusetts,-0.058506573542646434
+salem,37.2864,-80.0555,United States,Virginia,-0.058506573542646434
+salem,44.9233,-123.0244,United States,Oregon,-0.058506573542646434
+salem,40.0539,-111.6718,United States,Utah,-0.058506573542646434
+salem,11.65,78.15,India,Tamil Nādu,-0.058506573542646434
+salem,40.9049,-80.8492,United States,Ohio,-0.058506573542646434
+salem,42.7902,-71.2202,United States,New Hampshire,-0.058506573542646434
+virginia,-28.1064,26.8622,South Africa,Free State,-0.0586349966238191
+cumberland,41.9703,-71.4198,United States,Rhode Island,-0.05886263360545407
+cumberland,39.6515,-78.7584,United States,Maryland,-0.05886263360545407
+powell,36.0358,-84.0296,United States,Tennessee,-0.0600020291229022
+powell,40.1689,-83.0829,United States,Ohio,-0.0600020291229022
+henderson,37.8397,-87.5798,United States,Kentucky,-0.060122942432969895
+henderson,-36.2833,-61.7167,Argentina,Buenos Aires,-0.060122942432969895
+henderson,32.1576,-94.796,United States,Texas,-0.060122942432969895
+henderson,36.0133,-115.0381,United States,Nevada,-0.060122942432969895
+henderson,36.3256,-78.4151,United States,North Carolina,-0.060122942432969895
+fleetwood,53.922,-3.012,United Kingdom,Lancashire,-0.060297562532175775
+university,28.0771,-82.4335,United States,Florida,-0.06031171595894902
+dan,7.3167,2.0667,Benin,Zou,-0.06165274591153613
+ontario,44.0259,-116.976,United States,Oregon,-0.06181941290457127
+ontario,34.0393,-117.6064,United States,California,-0.06181941290457127
+ontario,43.2408,-77.314,United States,New York,-0.06181941290457127
+alexandria,43.9686,25.3333,Romania,Teleorman,-0.06191401924419182
+alexandria,38.9621,-84.3859,United States,Kentucky,-0.06191401924419182
+alexandria,-6.4128,-38.0158,Brazil,Rio Grande do Norte,-0.06191401924419182
+alexandria,38.8185,-77.0861,United States,Virginia,-0.06191401924419182
+alexandria,31.1975,29.8925,Egypt,Al Iskandarīyah,-0.06191401924419182
+alexandria,45.8776,-95.3767,United States,Minnesota,-0.06191401924419182
+alexandria,31.2923,-92.4702,United States,Louisiana,-0.06191401924419182
+gonzaga,18.2614,121.9969,Philippines,Cagayan,-0.062002875694859405
+gonzaga,44.95,10.8167,Italy,Lombardy,-0.062002875694859405
+ascot,51.4084,-0.6707,United Kingdom,Windsor and Maidenhead,-0.06221079726576484
+winder,33.9917,-83.7218,United States,Georgia,-0.06221285508771435
+dome,5.655,-0.235,Ghana,Greater Accra,-0.06227658209546427
+roda,30.682,75.0195,India,Punjab,-0.06242325773127555
+effingham,39.1205,-88.5509,United States,Illinois,-0.0626656638593035
+natal,-6.9838,-60.2699,Brazil,Amazonas,-0.0634924390022038
+natal,-5.7833,-35.2,Brazil,Rio Grande do Norte,-0.0634924390022038
+egg,47.3019,8.6906,Switzerland,Zürich,-0.06355965221896165
+cody,44.5213,-109.0548,United States,Wyoming,-0.0639966642576908
+ban,-8.2333,115.4833,Indonesia,Bali,-0.06426743315497263
+kendall,25.6697,-80.3556,United States,Florida,-0.0644308006136669
+mexico,15.0667,120.7167,Philippines,Pampanga,-0.06466644339358907
+mexico,39.1625,-91.8712,United States,Missouri,-0.06466644339358907
+fife,47.2329,-122.3518,United States,Washington,-0.06474433958339709
+edgewood,39.419,-76.2964,United States,Maryland,-0.06526966928432043
+edgewood,47.2309,-122.2832,United States,Washington,-0.06526966928432043
+clearwater,27.979,-82.7623,United States,Florida,-0.06552414342735347
+loon,9.8,123.8,Philippines,Bohol,-0.0655497191250789
+esquimalt,48.4306,-123.4147,Canada,British Columbia,-0.06555194614940407
+twist,52.6167,7.0333,Germany,Lower Saxony,-0.06599464724946369
+tiny,44.6833,-79.95,Canada,Ontario,-0.06636928620507265
+oregon,42.9253,-89.3892,United States,Wisconsin,-0.06649439139437541
+oregon,41.6524,-83.4321,United States,Ohio,-0.06649439139437541
+teresa,14.5586,121.2083,Philippines,Rizal,-0.06657216379634567
+hudson,41.2399,-81.4408,United States,Ohio,-0.06666579962293362
+hudson,44.9639,-92.7312,United States,Wisconsin,-0.06666579962293362
+hudson,28.3595,-82.6894,United States,Florida,-0.06666579962293362
+hudson,42.7639,-71.4072,United States,New Hampshire,-0.06666579962293362
+hudson,42.3887,-71.5465,United States,Massachusetts,-0.06666579962293362
+perry,32.472,-83.7283,United States,Georgia,-0.0669205566246549
+renfrew,55.878,-4.389,United Kingdom,Renfrewshire,-0.06734274585661693
+cypress,33.8171,-118.0386,United States,California,-0.06741058862318838
+erie,40.0404,-105.0399,United States,Colorado,-0.06764889698236054
+erie,42.1167,-80.0733,United States,Pennsylvania,-0.06764889698236054
+flores,-7.8658,-37.975,Brazil,Pernambuco,-0.06781136235509622
+flores,16.9333,-89.8833,Guatemala,Petén,-0.06781136235509622
+thompson,55.7433,-97.8553,Canada,Manitoba,-0.06868775491057999
+thompson,41.9798,-71.8735,United States,Connecticut,-0.06868775491057999
+thompson,41.6474,-74.6745,United States,New York,-0.06868775491057999
+springs,-26.2547,28.4428,South Africa,Gauteng,-0.06896349761721932
+springs,41.0212,-72.1584,United States,New York,-0.06896349761721932
+moe,-38.1722,146.2678,Australia,Victoria,-0.06983304791502865
+roth,49.2461,11.0911,Germany,Bavaria,-0.06988557330849399
+johnston,41.691,-93.7234,United States,Iowa,-0.07007098035326953
+johnston,41.8274,-71.5202,United States,Rhode Island,-0.07007098035326953
+seattle,47.6211,-122.3244,United States,Washington,-0.0704950087135583
+sechelt,49.4742,-123.7542,Canada,British Columbia,-0.07071374887817927
+lakeshore,42.2399,-82.6511,Canada,Ontario,-0.07073889161884206
+marysville,40.2279,-83.3595,United States,Ohio,-0.07079857692369296
+marysville,48.0809,-122.1561,United States,Washington,-0.07079857692369296
+marysville,39.1518,-121.5835,United States,California,-0.07079857692369296
+marysville,42.9084,-82.4806,United States,Michigan,-0.07079857692369296
+kendal,54.326,-2.745,United Kingdom,Cumbria,-0.07086304127271381
+sombrio,-29.1039,-49.6289,Brazil,Santa Catarina,-0.07117979939415164
+waterloo,38.3403,-90.1538,United States,Illinois,-0.07126344664978634
+waterloo,42.4918,-92.3522,United States,Iowa,-0.07126344664978634
+waterloo,50.7167,4.3833,Belgium,Wallonia,-0.07126344664978634
+waterloo,43.4667,-80.5167,Canada,Ontario,-0.07126344664978634
+center,40.6483,-80.2977,United States,Pennsylvania,-0.0718493803039395
+whistler,50.1208,-122.9544,Canada,British Columbia,-0.07258392029449867
+montgomery,41.7237,-88.3633,United States,Illinois,-0.07310113018958186
+montgomery,39.2496,-84.3458,United States,Ohio,-0.07310113018958186
+montgomery,41.5399,-74.2073,United States,New York,-0.07310113018958186
+montgomery,32.3482,-86.2668,United States,Alabama,-0.07310113018958186
+montgomery,40.2411,-75.2318,United States,Pennsylvania,-0.07310113018958186
+montgomery,40.426,-74.6791,United States,New Jersey,-0.07310113018958186
+graham,36.0589,-79.3894,United States,North Carolina,-0.07312640393877534
+graham,33.1017,-98.5779,United States,Texas,-0.07312640393877534
+graham,47.0322,-122.2827,United States,Washington,-0.07312640393877534
+fully,46.1333,7.1167,Switzerland,Valais,-0.07317874823028037
+cheadle,52.9849,-1.9865,United Kingdom,Staffordshire,-0.07334817376749037
+baldwin,40.6511,-73.6075,United States,New York,-0.07342135302951713
+baldwin,40.369,-79.9669,United States,Pennsylvania,-0.07342135302951713
+yukon,35.5201,-97.7639,United States,Oklahoma,-0.07351052644403944
+burlington,48.4676,-122.3298,United States,Washington,-0.07375034622670129
+burlington,39.0223,-84.7217,United States,Kentucky,-0.07375034622670129
+burlington,42.5022,-71.2027,United States,Massachusetts,-0.07375034622670129
+burlington,36.076,-79.4685,United States,North Carolina,-0.07375034622670129
+burlington,41.7598,-72.959,United States,Connecticut,-0.07375034622670129
+burlington,40.8071,-91.1247,United States,Iowa,-0.07375034622670129
+burlington,40.0641,-74.8394,United States,New Jersey,-0.07375034622670129
+burlington,44.4876,-73.2316,United States,Vermont,-0.07375034622670129
+burlington,42.6744,-88.2721,United States,Wisconsin,-0.07375034622670129
+burlington,43.3167,-79.8,Canada,Ontario,-0.07375034622670129
+cork,51.8972,-8.47,Ireland,Cork,-0.07405023285385637
+largo,27.9088,-82.7712,United States,Florida,-0.07473485228128718
+largo,38.88,-76.8289,United States,Maryland,-0.07473485228128718
+memphis,35.1087,-89.9663,United States,Tennessee,-0.07480911593698591
+memphis,27.5435,-82.5608,United States,Florida,-0.07480911593698591
+garibaldi,-29.2558,-51.5339,Brazil,Rio Grande do Sul,-0.07483328569581249
+wilton,41.207,-73.4401,United States,Connecticut,-0.07514815808909692
+wilton,43.1502,-73.7276,United States,New York,-0.07514815808909692
+superior,46.6941,-92.0823,United States,Wisconsin,-0.07545698467072959
+superior,39.934,-105.1588,United States,Colorado,-0.07545698467072959
+forster,-32.1806,152.5117,Australia,New South Wales,-0.07565437378978568
+sulphur,30.2286,-93.3566,United States,Louisiana,-0.07600684785242762
+amelia,42.55,12.4167,Italy,Umbria,-0.07613785619426783
+amelia,39.0269,-84.2218,United States,Ohio,-0.07613785619426783
+princeton,40.3562,-74.6693,United States,New Jersey,-0.07689268418685113
+princeton,25.5396,-80.3971,United States,Florida,-0.07689268418685113
+princeton,33.1778,-96.5044,United States,Texas,-0.07689268418685113
+centennial,39.5926,-104.8673,United States,Colorado,-0.07701501931488286
+langley,49.1044,-122.5827,Canada,British Columbia,-0.07752670487742153
+denison,33.7672,-96.5808,United States,Texas,-0.07807776505577135
+portage,41.5856,-87.1797,United States,Indiana,-0.07821838985376828
+portage,43.5489,-89.4658,United States,Wisconsin,-0.07821838985376828
+portage,42.2,-85.5906,United States,Michigan,-0.07821838985376828
+lehigh,40.7678,-75.5394,United States,Pennsylvania,-0.07835383020469955
+whitewater,42.8372,-88.7341,United States,Wisconsin,-0.07847431979887132
+montana,43.4075,23.2217,Bulgaria,Montana,-0.07949639695066901
+wanda,-25.9667,-54.5833,Argentina,Misiones,-0.07956650188869241
+keystone,28.1312,-82.5999,United States,Florida,-0.08061749449956945
+york,43.186,-70.666,United States,Maine,-0.08080121303274734
+york,53.9601,-1.078,United Kingdom,York,-0.08080121303274734
+york,39.9651,-76.7315,United States,Pennsylvania,-0.08080121303274734
+mao,14.1194,15.3133,Chad,Kanem,-0.08088168225280046
+mao,19.5667,-71.0833,Dominican Republic,Cibao Noroeste,-0.08088168225280046
+gates,43.1514,-77.713,United States,New York,-0.08315673920906641
+linda,39.1241,-121.5421,United States,California,-0.08351826076710145
+split,43.51,16.44,Croatia,Splitsko-Dalmatinska Županija,-0.08460943555336975
+russell,45.2569,-75.3583,Canada,Ontario,-0.08492672852723837
+harvey,41.6076,-87.652,United States,Illinois,-0.08545649980937653
+harvey,29.8876,-90.0666,United States,Louisiana,-0.08545649980937653
+charlotte,35.2083,-80.8303,United States,North Carolina,-0.08561922773055852
+charlotte,42.5662,-84.8304,United States,Michigan,-0.08561922773055852
+sutton,51.3656,-0.1963,United Kingdom,Sutton,-0.08617929706369143
+sutton,42.1337,-71.7503,United States,Massachusetts,-0.08617929706369143
+goes,51.5,3.8833,Netherlands,Zeeland,-0.08679401479958493
+hanson,42.0558,-70.8723,United States,Massachusetts,-0.08688952852701792
+saskatoon,52.1333,-106.6833,Canada,Saskatchewan,-0.08759512540508263
+paradise,36.0872,-115.1355,United States,Nevada,-0.0882018692667601
+paradise,47.5333,-52.8667,Canada,Newfoundland and Labrador,-0.0882018692667601
+moberly,39.4179,-92.4364,United States,Missouri,-0.08955329071713547
+street,51.1235,-2.7381,United Kingdom,Somerset,-0.09151780565581014
+kimberley,-28.7383,24.7639,South Africa,Northern Cape,-0.09182931739087508
+duncan,34.5408,-97.9215,United States,Oklahoma,-0.0918349204669211
+duncan,48.7787,-123.7079,Canada,British Columbia,-0.0918349204669211
+liberty,41.8132,-74.7775,United States,New York,-0.09273193107958622
+liberty,39.2394,-94.4191,United States,Missouri,-0.09273193107958622
+iwo,7.6333,4.1833,Nigeria,Osun,-0.09305149712873684
+jam,27.8236,52.3303,Iran,Būshehr,-0.09335235849091394
+kitchener,43.4186,-80.4728,Canada,Ontario,-0.09338444262492862
+worth,51.113,-0.147,United Kingdom,West Sussex,-0.09419857745748539
+worth,41.6877,-87.7916,United States,Illinois,-0.09419857745748539
+freehold,40.2233,-74.2986,United States,New Jersey,-0.09441523750863556
+canyon,34.9911,-101.919,United States,Texas,-0.09450918675219522
+brookfield,43.064,-88.1231,United States,Wisconsin,-0.09470019480324687
+brookfield,41.4674,-73.3923,United States,Connecticut,-0.09470019480324687
+brookfield,41.8245,-87.847,United States,Illinois,-0.09470019480324687
+newman,37.3156,-121.0212,United States,California,-0.09522614040574573
+newman,-23.3539,119.7319,Australia,Western Australia,-0.09522614040574573
+moa,20.6397,-74.9175,Cuba,Holguín,-0.09548866314678572
+delta,38.756,-108.0772,United States,Colorado,-0.09551884884187456
+delta,49.0847,-123.0586,Canada,British Columbia,-0.09551884884187456
+maga,10.85,14.9333,Cameroon,Extrême-Nord,-0.095984251584464
+gap,44.5594,6.0786,France,Provence-Alpes-Côte d’Azur,-0.09603907041308646
+dennis,41.7064,-70.1644,United States,Massachusetts,-0.09726817085169026
+dixon,38.4469,-121.825,United States,California,-0.09781687990952759
+dixon,41.8439,-89.4794,United States,Illinois,-0.09781687990952759
+david,8.4333,-82.4333,Panama,Chiriquí,-0.09847458076380833
+boulder,40.0248,-105.2524,United States,Colorado,-0.09864433124650929
+harper,4.3667,-7.7167,Liberia,Maryland,-0.0987787546434018
+houston,29.786,-95.3885,United States,Texas,-0.09960724141734278
+lynn,42.4781,-70.9664,United States,Massachusetts,-0.10031020376668032
+buffalo,42.9018,-78.8487,United States,New York,-0.1004970686841089
+buffalo,45.1794,-93.8644,United States,Minnesota,-0.1004970686841089
+kennedy,40.4768,-80.1028,United States,Pennsylvania,-0.10082885653672058
+hagen,51.3667,7.4833,Germany,North Rhine-Westphalia,-0.10116298454935202
+brick,40.06,-74.1099,United States,New Jersey,-0.10175791496876774
+bury,53.593,-2.298,United Kingdom,Bury,-0.10189527405443788
+parksville,49.315,-124.312,Canada,British Columbia,-0.10216173782031879
+jordan,10.6,122.6,Philippines,Guimaras,-0.10279408365768306
+warren,42.4934,-83.027,United States,Michigan,-0.10304098310649334
+warren,41.7282,-71.2629,United States,Rhode Island,-0.10304098310649334
+warren,41.239,-80.8174,United States,Ohio,-0.10304098310649334
+warren,40.6323,-74.5146,United States,New Jersey,-0.10304098310649334
+warren,41.8434,-79.1444,United States,Pennsylvania,-0.10304098310649334
+greer,34.933,-82.2313,United States,South Carolina,-0.10426690738741584
+washington,39.7469,-75.0724,United States,New Jersey,-0.10540906430005226
+washington,35.5586,-77.0545,United States,North Carolina,-0.10540906430005226
+washington,39.7494,-77.5579,United States,Pennsylvania,-0.10540906430005226
+washington,40.1741,-80.2465,United States,Pennsylvania,-0.10540906430005226
+washington,54.9,-1.52,United Kingdom,Sunderland,-0.10540906430005226
+washington,38.9047,-77.0163,United States,District of Columbia,-0.10540906430005226
+washington,40.9884,-74.0636,United States,New Jersey,-0.10540906430005226
+washington,38.6586,-87.1591,United States,Indiana,-0.10540906430005226
+washington,40.705,-89.434,United States,Illinois,-0.10540906430005226
+washington,40.7877,-74.7918,United States,New Jersey,-0.10540906430005226
+washington,37.1303,-113.4878,United States,Utah,-0.10540906430005226
+washington,38.5515,-91.0154,United States,Missouri,-0.10540906430005226
+dip,26.2369,86.3107,India,Bihār,-0.10583146318784209
+central,30.5593,-91.0369,United States,Louisiana,-0.10591362335577736
+central,-11.1542,-42.0814,Brazil,Bahia,-0.10591362335577736
+apex,35.7237,-78.8743,United States,North Carolina,-0.10598869612892936
+camborne,50.213,-5.3,United Kingdom,Cornwall,-0.10607194494770966
+cam,51.7011,-2.3642,United Kingdom,Gloucestershire,-0.10753734858028241
+hamilton,-37.7333,142.0167,Australia,Victoria,-0.10854892020066509
+hamilton,55.777,-4.039,United Kingdom,South Lanarkshire,-0.10854892020066509
+hamilton,39.3939,-84.5653,United States,Ohio,-0.10854892020066509
+hamilton,32.2942,-64.7839,Bermuda,Hamilton,-0.10854892020066509
+hamilton,39.9432,-77.7327,United States,Pennsylvania,-0.10854892020066509
+hamilton,40.9334,-75.2844,United States,Pennsylvania,-0.10854892020066509
+hamilton,-37.7833,175.2833,New Zealand,Waikato,-0.10854892020066509
+hamilton,43.2567,-79.8692,Canada,Ontario,-0.10854892020066509
+hamilton,40.2046,-74.6765,United States,New Jersey,-0.10854892020066509
+warman,52.3219,-106.5842,Canada,Saskatchewan,-0.10886877017052066
+harrison,36.2438,-93.1198,United States,Arkansas,-0.10918447311138824
+harrison,39.2584,-84.7868,United States,Ohio,-0.10918447311138824
+harrison,40.6374,-79.7173,United States,Pennsylvania,-0.10918447311138824
+harrison,40.7431,-74.1531,United States,New Jersey,-0.10918447311138824
+harrison,44.1935,-88.2941,United States,Wisconsin,-0.10918447311138824
+harrison,41.0236,-73.7193,United States,New York,-0.10918447311138824
+taylor,42.226,-83.2688,United States,Michigan,-0.11006710298849542
+taylor,30.5729,-97.4268,United States,Texas,-0.11006710298849542
+geddes,43.0762,-76.2252,United States,New York,-0.11013819037872041
+squamish,49.7017,-123.1589,Canada,British Columbia,-0.11032990059955905
+normal,40.5217,-88.9884,United States,Illinois,-0.11098298056749756
+green,40.9483,-81.4757,United States,Ohio,-0.11153972084562436
+unity,40.2811,-79.4236,United States,Pennsylvania,-0.11330984437084735
+cottonwood,34.7195,-112.0016,United States,Arizona,-0.11352587344032972
+sooke,48.3761,-123.7378,Canada,British Columbia,-0.11410732886582609
+nancy,48.6936,6.1846,France,Grand Est,-0.11657533270635456
+coal,40.7873,-76.5493,United States,Pennsylvania,-0.11700520126729974
+anderson,34.5211,-82.6478,United States,South Carolina,-0.1179576050304929
+anderson,40.0891,-85.6892,United States,Indiana,-0.1179576050304929
+anderson,40.4497,-122.295,United States,California,-0.1179576050304929
+elkhorn,42.6713,-88.5377,United States,Wisconsin,-0.1194021380138528
+aberdeen,45.4649,-98.4686,United States,South Dakota,-0.12022061527583006
+aberdeen,39.5151,-76.1733,United States,Maryland,-0.12022061527583006
+aberdeen,40.4165,-74.2249,United States,New Jersey,-0.12022061527583006
+aberdeen,46.9757,-123.8094,United States,Washington,-0.12022061527583006
+aberdeen,57.15,-2.11,United Kingdom,Aberdeen City,-0.12022061527583006
+triangle,38.5483,-77.3195,United States,Virginia,-0.12075684087551108
+weston,42.3589,-71.3001,United States,Massachusetts,-0.12085890630474716
+weston,53.413,-2.798,United Kingdom,Halton,-0.12085890630474716
+weston,26.1006,-80.4054,United States,Florida,-0.12085890630474716
+weston,41.2284,-73.3726,United States,Connecticut,-0.12085890630474716
+weston,44.8906,-89.5487,United States,Wisconsin,-0.12085890630474716
+pop,40.8736,71.1089,Uzbekistan,Namangan,-0.12122063124738647
+mons,50.45,3.95,Belgium,Wallonia,-0.12155077977069828
+clay,33.6951,-86.609,United States,Alabama,-0.1221937980166703
+clay,43.1808,-76.1954,United States,New York,-0.1221937980166703
+victor,42.9894,-77.4277,United States,New York,-0.1226574172177235
+marshall,44.4488,-95.7897,United States,Minnesota,-0.12301880576944746
+marshall,32.537,-94.3515,United States,Texas,-0.12301880576944746
+marshall,39.1147,-93.201,United States,Missouri,-0.12301880576944746
+marshall,40.6453,-80.11,United States,Pennsylvania,-0.12301880576944746
+best,51.5167,5.4,Netherlands,Noord-Brabant,-0.12312392178151521
+lawrence,39.8674,-85.9904,United States,Indiana,-0.12327967587673738
+lawrence,42.7002,-71.1626,United States,Massachusetts,-0.12327967587673738
+lawrence,40.2954,-74.7205,United States,New Jersey,-0.12327967587673738
+lawrence,38.9597,-95.2642,United States,Kansas,-0.12327967587673738
+man,7.4,-7.55,Côte d'Ivoire,Montagnes,-0.12341108839422166
+rich,32.2583,-4.5056,Morocco,Drâa-Tafilalet,-0.12418810009444425
+albert,50.0019,2.6522,France,Hauts-de-France,-0.12440668512702224
+findlay,41.0469,-83.6379,United States,Ohio,-0.12534141247771835
+wright,30.4445,-86.6419,United States,Florida,-0.12554999634114772
+cicero,41.8445,-87.7593,United States,Illinois,-0.12566898947687255
+cicero,43.1662,-76.0662,United States,New York,-0.12566898947687255
+cambridge,40.0221,-81.5869,United States,Ohio,-0.12606349179191612
+cambridge,45.5612,-93.2283,United States,Minnesota,-0.12606349179191612
+cambridge,38.5515,-76.0787,United States,Maryland,-0.12606349179191612
+cambridge,42.3759,-71.1185,United States,Massachusetts,-0.12606349179191612
+cambridge,52.2053,0.1192,United Kingdom,Cambridgeshire,-0.12606349179191612
+cambridge,43.3972,-80.3114,Canada,Ontario,-0.12606349179191612
+cambridge,-37.8833,175.4667,New Zealand,Waikato,-0.12606349179191612
+vulcan,45.3811,23.2914,Romania,Hunedoara,-0.12800135162476645
+penticton,49.4911,-119.5886,Canada,British Columbia,-0.12848736563850305
+kelowna,49.8881,-119.4956,Canada,British Columbia,-0.12946908326518725
+dublin,53.35,-6.2603,Ireland,Dublin,-0.1306149484361141
+dublin,40.1112,-83.1454,United States,Ohio,-0.1306149484361141
+dublin,37.7161,-121.8963,United States,California,-0.1306149484361141
+dublin,32.536,-82.928,United States,Georgia,-0.1306149484361141
+white,40.621,-79.1513,United States,Pennsylvania,-0.13093276557308164
+donna,26.1468,-98.0559,United States,Texas,-0.13099828059344754
+delano,35.7662,-119.2635,United States,California,-0.13100954466513448
+portland,45.5371,-122.65,United States,Oregon,-0.13182050273554458
+portland,41.5988,-72.589,United States,Connecticut,-0.13182050273554458
+portland,-38.3333,141.6,Australia,Victoria,-0.13182050273554458
+portland,36.5921,-86.5239,United States,Tennessee,-0.13182050273554458
+portland,27.8942,-97.3278,United States,Texas,-0.13182050273554458
+portland,43.6773,-70.2715,United States,Maine,-0.13182050273554458
+mary,37.6,61.8333,Turkmenistan,Mary,-0.13255511896753647
+california,38.2969,-76.4949,United States,Maryland,-0.1328584469900087
+clinton,41.1395,-112.0656,United States,Utah,-0.13329369005474634
+clinton,38.7499,-76.9063,United States,Maryland,-0.13329369005474634
+clinton,32.354,-90.3403,United States,Mississippi,-0.13329369005474634
+clinton,41.298,-72.53,United States,Connecticut,-0.13329369005474634
+clinton,41.8435,-90.2412,United States,Iowa,-0.13329369005474634
+clinton,38.3716,-93.7679,United States,Missouri,-0.13329369005474634
+clinton,40.6315,-74.8553,United States,New Jersey,-0.13329369005474634
+clinton,35.5069,-98.9706,United States,Oklahoma,-0.13329369005474634
+clinton,36.0981,-84.1283,United States,Tennessee,-0.13329369005474634
+clinton,42.4119,-71.6888,United States,Massachusetts,-0.13329369005474634
+calgary,51.05,-114.0667,Canada,Alberta,-0.13337174621575
+brunswick,43.9007,-69.9761,United States,Maine,-0.13395576390563058
+brunswick,42.7558,-73.5903,United States,New York,-0.13395576390563058
+brunswick,31.1449,-81.4746,United States,Georgia,-0.13395576390563058
+brunswick,41.2465,-81.8198,United States,Ohio,-0.13395576390563058
+deal,51.2226,1.4006,United Kingdom,Kent,-0.1340604588343257
+westerly,41.3635,-71.7899,United States,Rhode Island,-0.13616465203100248
+mitchell,43.7294,-98.0337,United States,South Dakota,-0.13632527419388807
+vancouver,49.25,-123.1,Canada,British Columbia,-0.13679219003109178
+vancouver,45.6366,-122.5967,United States,Washington,-0.13679219003109178
+rutherford,40.8203,-74.1057,United States,New Jersey,-0.13690945541724675
+rutherford,-32.715,151.5317,Australia,New South Wales,-0.13690945541724675
+aldridge,52.606,-1.9179,United Kingdom,Walsall,-0.1371154238964234
+griswold,41.5852,-71.9226,United States,Connecticut,-0.1373043145820807
+pemberton,39.9562,-74.6,United States,New Jersey,-0.13772499225084234
+pemberton,53.536,-2.6738,United Kingdom,Wigan,-0.13772499225084234
+reno,39.5497,-119.8483,United States,Nevada,-0.13773659872512578
+middle,39.0852,-74.8337,United States,New Jersey,-0.1379302683231416
+edmonton,51.6154,-0.0708,United Kingdom,Enfield,-0.13822816588019093
+edmonton,53.5344,-113.4903,Canada,Alberta,-0.13822816588019093
+halfmoon,42.864,-73.7275,United States,New York,-0.1384044169897296
+fraser,42.5388,-82.9496,United States,Michigan,-0.13872619904815697
+wells,51.2094,-2.645,United Kingdom,Somerset,-0.13961049893922772
+wells,43.3267,-70.6336,United States,Maine,-0.13961049893922772
+derby,52.9217,-1.4767,United Kingdom,Derby,-0.1400840661956806
+derby,39.84,-104.9172,United States,Colorado,-0.1400840661956806
+derby,37.5571,-97.2551,United States,Kansas,-0.1400840661956806
+derby,41.3265,-73.0833,United States,Connecticut,-0.1400840661956806
+cornwall,45.0275,-74.74,Canada,Ontario,-0.14062629867655074
+cornwall,41.4195,-74.054,United States,New York,-0.14062629867655074
+moon,40.5081,-80.2074,United States,Pennsylvania,-0.14205627553824285
+halfway,39.6162,-77.7703,United States,Maryland,-0.1433657026553956
+time,58.7228,5.7653,Norway,Rogaland,-0.1437549094866668
+scott,40.3875,-80.0791,United States,Pennsylvania,-0.1440821280053406
+crawford,41.5685,-74.3169,United States,New York,-0.14432127991408406
+young,-34.3,148.3,Australia,New South Wales,-0.1446394592430973
+young,-32.7,-57.6333,Uruguay,Río Negro,-0.1446394592430973
+willoughby,41.6459,-81.4084,United States,Ohio,-0.1448644747320198
+friendly,38.7601,-76.9642,United States,Maryland,-0.14546606339661627
+ski,59.7419,10.8939,Norway,Viken,-0.14583061127513353
+wishaw,55.7742,-3.9183,United Kingdom,North Lanarkshire,-0.14714834719792313
+upper,39.2563,-74.727,United States,New Jersey,-0.14735924456959992
+abbotsford,49.05,-122.3167,Canada,British Columbia,-0.1477200574563886
+alice,27.7556,-98.0653,United States,Texas,-0.14781364770778893
+quesnel,52.9784,-122.4927,Canada,British Columbia,-0.14821313327889762
+stone,52.9,-2.15,United Kingdom,Staffordshire,-0.14913859988160505
+birkenhead,53.393,-3.014,United Kingdom,Wirral,-0.14944021450801004
+sullivan,43.0923,-75.8794,United States,New York,-0.14979451171184488
+howard,44.5703,-88.0928,United States,Wisconsin,-0.1513025678789619
+knutsford,53.3025,-2.3708,United Kingdom,Cheshire East,-0.1523480834534532
+grants,35.1538,-107.8335,United States,New Mexico,-0.15241973251670582
+parkes,-33.133,148.176,Australia,New South Wales,-0.15273577632817736
+courtenay,49.6878,-124.9944,Canada,British Columbia,-0.15477725331247294
+wil,47.4667,9.05,Switzerland,Sankt Gallen,-0.15519420340270673
+columbia,39.2004,-76.859,United States,Maryland,-0.15650880679427237
+columbia,35.6238,-87.0484,United States,Tennessee,-0.15650880679427237
+columbia,38.4581,-90.2156,United States,Illinois,-0.15650880679427237
+columbia,38.9472,-92.3268,United States,Missouri,-0.15650880679427237
+columbia,34.0378,-80.9036,United States,South Carolina,-0.15650880679427237
+columbia,40.0347,-76.4944,United States,Pennsylvania,-0.15650880679427237
+cheam,51.36,-0.21,United Kingdom,Sutton,-0.15775831693420583
+winnipeg,49.8844,-97.1464,Canada,Manitoba,-0.1592728119801865
+vernon,41.8364,-72.4606,United States,Connecticut,-0.15962939370950635
+vernon,34.1479,-99.3,United States,Texas,-0.15962939370950635
+vernon,49.09,1.49,France,Normandie,-0.15962939370950635
+vernon,50.267,-119.272,Canada,British Columbia,-0.15962939370950635
+vernon,41.1973,-74.4857,United States,New Jersey,-0.15962939370950635
+ogden,34.2656,-77.7966,United States,North Carolina,-0.16042507301636233
+ogden,43.1646,-77.822,United States,New York,-0.16042507301636233
+ogden,41.2279,-111.9682,United States,Utah,-0.16042507301636233
+jones,16.5583,121.7,Philippines,Isabela,-0.16144747750849042
+ben,32.5444,50.7461,Iran,Chahār Maḩāl va Bakhtīārī,-0.16191232901961294
+nelson,-41.2708,173.2839,New Zealand,Nelson,-0.16238699220659703
+nelson,49.5,-117.2833,Canada,British Columbia,-0.16238699220659703
+nelson,53.8346,-2.218,United Kingdom,Lancashire,-0.16238699220659703
+george,-33.9667,22.45,South Africa,Western Cape,-0.1626149875772307
+ii,65.3167,25.3722,Finland,Pohjois-Pohjanmaa,-0.16298503992800462
+star,43.7026,-116.4914,United States,Idaho,-0.16339444039765016
+summit,47.1694,-122.3628,United States,Washington,-0.16351234429736383
+summit,41.7877,-87.8146,United States,Illinois,-0.16351234429736383
+summit,40.7154,-74.3647,United States,New Jersey,-0.16351234429736383
+lethbridge,49.6942,-112.8328,Canada,Alberta,-0.16483792636741823
+tut,37.7967,37.915,Turkey,Adıyaman,-0.16489023529455027
+burg,52.2725,11.855,Germany,Saxony-Anhalt,-0.16518854117369108
+hayes,51.5127,-0.4211,United Kingdom,Hillingdon,-0.1655608506243158
+hayes,51.378,0.0192,United Kingdom,Bromley,-0.1655608506243158
+davis,38.5553,-121.737,United States,California,-0.16615051311782936
+wilson,35.7311,-77.9284,United States,North Carolina,-0.16637140872705225
+baker,30.5832,-91.1582,United States,Louisiana,-0.17425307434142456
+cranbrook,49.5097,-115.7667,Canada,British Columbia,-0.17513654208983476
+bay,14.1833,121.2833,Philippines,Laguna,-0.17540606498369127
+laurel,37.6375,-77.5062,United States,Virginia,-0.17540703022660908
+laurel,27.1507,-82.4534,United States,Florida,-0.17540703022660908
+laurel,31.6956,-89.1449,United States,Mississippi,-0.17540703022660908
+laurel,39.0949,-76.8622,United States,Maryland,-0.17540703022660908
+laurel,14.05,120.9,Philippines,Batangas,-0.17540703022660908
+savona,44.308,8.481,Italy,Liguria,-0.17600520496493233
+carney,39.405,-76.5235,United States,Maryland,-0.17674475238137877
+sandy,41.1447,-78.7295,United States,Pennsylvania,-0.176942476415761
+sandy,52.131,-0.297,United Kingdom,Central Bedfordshire,-0.176942476415761
+sandy,45.3988,-122.2697,United States,Oregon,-0.176942476415761
+sandy,40.5709,-111.8506,United States,Utah,-0.176942476415761
+boo,59.3167,18.25,Sweden,Stockholm,-0.1784634769840614
+reserve,30.0741,-90.5557,United States,Louisiana,-0.178958056198391
+fulton,43.3171,-76.4167,United States,New York,-0.18255348643039548
+fulton,38.8551,-91.951,United States,Missouri,-0.18255348643039548
+alta,69.9689,23.2716,Norway,Troms og Finnmark,-0.18431582531399937
+kearns,40.6519,-112.0095,United States,Utah,-0.18505496873260774
+sand,59.1343,10.2244,Norway,Vestfold og Telemark,-0.19001602247973004
+coldwater,41.9465,-84.9989,United States,Michigan,-0.19140125366998095
+placer,11.8689,123.9167,Philippines,Masbate,-0.19311921119119901
+placer,9.657,125.6016,Philippines,Surigao del Norte,-0.19311921119119901
+sydney,-33.8678,151.21,Australia,New South Wales,-0.1945039686976664
+westminster,39.5796,-77.0067,United States,Maryland,-0.19493411498376223
+westminster,33.7523,-117.9938,United States,California,-0.19493411498376223
+westminster,51.4947,-0.1353,United Kingdom,Westminster,-0.19493411498376223
+westminster,39.8837,-105.0624,United States,Colorado,-0.19493411498376223
+golden,39.7406,-105.2118,United States,Colorado,-0.19837657494505767
+ware,51.8109,-0.0314,United Kingdom,Hertfordshire,-0.20079192507256272
+ware,42.2806,-72.2843,United States,Massachusetts,-0.20079192507256272
+aiken,33.5303,-81.7271,United States,South Carolina,-0.20310478753888206
+stuart,27.1959,-80.2444,United States,Florida,-0.2045817140672539
+douglas,51.8764,-8.4358,Ireland,Cork,-0.20575112416604657
+douglas,42.0524,-71.7515,United States,Massachusetts,-0.20575112416604657
+douglas,31.3602,-109.5394,United States,Arizona,-0.20575112416604657
+douglas,31.5065,-82.8544,United States,Georgia,-0.20575112416604657
+douglas,54.145,-4.482,Isle Of Man,,-0.20575112416604657
+bend,44.0563,-121.3095,United States,Oregon,-0.2065972007754142
+southeast,41.4032,-73.5985,United States,New York,-0.2087584910503657
+greenwood,33.5126,-90.1993,United States,Mississippi,-0.20979143575921166
+greenwood,34.1947,-82.1542,United States,South Carolina,-0.20979143575921166
+greenwood,39.6019,-86.1073,United States,Indiana,-0.20979143575921166
+greenwood,35.2134,-94.2408,United States,Arkansas,-0.20979143575921166
+terrace,54.5164,-128.5997,Canada,British Columbia,-0.2145124883369034
+forest,50.8131,4.3247,Belgium,Brussels-Capital Region,-0.2186059671818319
+forest,37.3728,-79.2831,United States,Virginia,-0.2186059671818319
+kamloops,50.6761,-120.3408,Canada,British Columbia,-0.22370789163727856
+hope,33.6682,-93.5895,United States,Arkansas,-0.22538342369629394
+lower,38.9819,-74.9087,United States,New Jersey,-0.22709994322635985
+nanaimo,49.1642,-123.9364,Canada,British Columbia,-0.22724290065007513
+victoria,14.225,121.325,Philippines,Laguna,-0.24203834010079417
+victoria,-32.6167,-60.1667,Argentina,Entre Ríos,-0.24203834010079417
+victoria,-38.2333,-72.3333,Chile,Araucanía,-0.24203834010079417
+victoria,28.8287,-96.9849,United States,Texas,-0.24203834010079417
+victoria,13.1719,121.2756,Philippines,Oriental Mindoro,-0.24203834010079417
+victoria,-4.6167,55.45,Seychelles,Mont Buxton,-0.24203834010079417
+victoria,12.45,124.3167,Philippines,Northern Samar,-0.24203834010079417
+victoria,36.0436,14.2431,Malta,Rabat (Ghawdex),-0.24203834010079417
+victoria,15.5781,120.6819,Philippines,Tarlac,-0.24203834010079417
+victoria,13.95,-88.6333,El Salvador,Cabañas,-0.24203834010079417
+victoria,48.4283,-123.3647,Canada,British Columbia,-0.24203834010079417
+victoria,44.8634,-93.6585,United States,Minnesota,-0.24203834010079417
+robinson,40.4578,-80.1334,United States,Pennsylvania,-0.24776365815787416
+robinson,31.4501,-97.1201,United States,Texas,-0.24776365815787416
+mackay,-21.1411,149.1858,Australia,Queensland,-0.27889919424697807
